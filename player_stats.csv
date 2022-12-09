@@ -1,0 +1,830 @@
+,Country,Player,Link,Position,Overall,Potential,Attacking,Skill,Movement,Power,Mentality,Defending,Goalkeeping
+0,Argentina,Lionel Messi,https://www.fifaratings.com/lionel-messi,Center Attacking Midfielder (CAM),91,91,85,93,88,77,74,26,11
+1,Argentina,Lautaro Martínez,https://www.fifaratings.com/lautaro-martinez,Striker (ST),86,90,79,75,86,82,77,43,10
+2,Argentina,Paulo Dybala,https://www.fifaratings.com/paulo-dybala,Center Attacking Midfielder (CAM),86,86,79,88,83,75,70,37,5
+3,Argentina,Marcos Acuña,https://www.fifaratings.com/marcos-acuna,Left Back (LB),85,85,73,83,82,79,82,83,12
+4,Argentina,Ángel Di María,https://www.fifaratings.com/angel-di-maria,Right Wing (RW),84,84,74,87,81,74,74,49,10
+5,Argentina,Alejandro Gómez,https://www.fifaratings.com/alejandro-gomez,Center Attacking Midfielder (CAM),84,84,71,82,87,69,69,38,9
+6,Argentina,Emiliano Martínez,https://www.fifaratings.com/emiliano-martinez,Goalkeeper (GK),84,84,25,30,59,50,38,17,84
+7,Argentina,Rodrigo Javier De Paul,https://www.fifaratings.com/rodrigo-javier-de-paul,Center Midfielder (CM),84,84,74,82,79,79,78,76,11
+8,Argentina,Cristian Romero,https://www.fifaratings.com/cristian-romero,Center Back (CB),83,88,60,57,73,66,63,86,9
+9,Argentina,Gerónimo Rulli,https://www.fifaratings.com/geronimo-rulli,Goalkeeper (GK),82,82,18,20,59,51,34,15,81
+10,Argentina,Lisandro Martínez,https://www.fifaratings.com/lisandro-martinez,Center Defensive Midfielder (CDM),81,86,68,71,75,79,73,82,11
+11,Argentina,Guido Rodríguez,https://www.fifaratings.com/guido-rodriguez,Center Defensive Midfielder (CDM),81,82,61,64,53,67,72,85,12
+12,Argentina,Nicolás Otamendi,https://www.fifaratings.com/nicolas-otamendi,Center Back (CB),81,81,63,55,64,74,67,82,10
+13,Argentina,Nicolás Tagliafico,https://www.fifaratings.com/nicolas-tagliafico,Left Back (LB),81,81,67,66,80,72,71,80,13
+14,Argentina,Nicolás González,https://www.fifaratings.com/nicolas-gonzalez,Left Midfielder (LM),80,85,77,69,82,68,69,41,8
+15,Argentina,Leandro Paredes,https://www.fifaratings.com/leandro-paredes,Center Defensive Midfielder (CDM),80,80,71,80,69,76,79,78,10
+16,Argentina,Joaquín Correa,https://www.fifaratings.com/joaquin-correa,Right Wing (RW),80,80,74,78,79,73,62,34,9
+17,Argentina,Enzo Fernández,https://www.fifaratings.com/enzo-fernandez,Center Midfielder (CM),79,87,69,75,76,78,78,74,8
+18,Argentina,Juan Foyth,https://www.fifaratings.com/juan-foyth,Center Back (CB),79,84,61,65,72,64,65,80,11
+19,Argentina,Gonzalo Montiel,https://www.fifaratings.com/gonzalo-montiel,Right Wing Back (RWB),79,81,63,62,80,74,77,75,8
+20,Argentina,Franco Armani,https://www.fifaratings.com/franco-armani,Goalkeeper (GK),79,79,20,23,48,50,35,16,77
+21,Argentina,Julián Álvarez,https://www.fifaratings.com/julian-alvarez,Center Attacking Midfielder (CAM),78,86,74,79,81,77,75,53,9
+22,Argentina,Nahuel Molina,https://www.fifaratings.com/nahuel-molina,Right Wing Back (RWB),78,84,68,65,79,71,67,72,10
+23,Argentina,Exequiel Palacios,https://www.fifaratings.com/exequiel-palacios,Center Midfielder (CM),78,83,68,71,72,75,74,75,8
+24,Argentina,Alexis Mac Allister,https://www.fifaratings.com/alexis-mac-allister,Center Attacking Midfielder (CAM),76,82,73,79,71,70,67,57,11
+25,Argentina,Germán Pezzella,https://www.fifaratings.com/german-pezzella,Center Back (CB),76,76,56,51,49,63,56,78,11
+26,Australia,Mathew Ryan,https://www.fifaratings.com/mathew-ryan,Goalkeeper (GK),78,78,21,23,56,51,38,16,78
+27,Australia,Jamie Maclaren,https://www.fifaratings.com/jamie-maclaren,Striker (ST),75,75,69,67,81,78,68,33,11
+28,Australia,Aaron Mooy,https://www.fifaratings.com/aaron-mooy,Center Midfielder (CM),75,75,68,75,68,76,75,71,11
+29,Australia,Craig Goodwin,https://www.fifaratings.com/craig-goodwin,Left Midfielder (LM),75,75,66,71,80,75,68,57,9
+30,Australia,Harry Souttar,https://www.fifaratings.com/harry-souttar,Center Back (CB),72,76,42,48,47,56,53,73,13
+31,Australia,Miloš Degenek,https://www.fifaratings.com/milos-degenek,Center Back (CB),72,73,63,59,73,75,68,70,11
+32,Australia,Martin Boyle,https://www.fifaratings.com/martin-boyle,Right Midfielder (RM),72,72,62,61,82,65,61,46,12
+33,Australia,Riley McGree,https://www.fifaratings.com/riley-mcgree,Left Midfielder (LM),71,77,65,69,78,71,69,62,9
+34,Australia,Cameron Devlin,https://www.fifaratings.com/cameron-devlin,Center Defensive Midfielder (CDM),71,76,58,62,75,63,68,69,9
+35,Australia,Mathew Leckie,https://www.fifaratings.com/mathew-leckie,Left Midfielder (LM),71,71,65,64,77,74,65,49,8
+36,Australia,Jackson Irvine,https://www.fifaratings.com/jackson-irvine,Center Midfielder (CM),71,71,66,65,63,75,67,66,10
+37,Australia,Keanu Baccus,https://www.fifaratings.com/keanu-baccus,Center Defensive Midfielder (CDM),71,71,50,59,77,69,62,69,8
+38,Australia,Nathaniel Atkinson,https://www.fifaratings.com/nathaniel-atkinson,Right Midfielder (RM),70,76,56,61,77,69,61,61,11
+39,Australia,Ajdin Hrustić,https://www.fifaratings.com/ajdin-hrustic,Center Attacking Midfielder (CAM),70,73,64,74,73,72,68,59,7
+40,Australia,Aziz Behich,https://www.fifaratings.com/aziz-behich,Left Back (LB),70,70,62,66,78,68,61,67,13
+41,Australia,Danny Vukovic,https://www.fifaratings.com/danny-vukovic,Goalkeeper (GK),70,70,16,14,53,47,28,16,68
+42,Australia,Awer Mabil,https://www.fifaratings.com/awer-mabil,Left Midfielder (LM),70,70,61,67,76,66,59,29,14
+43,Australia,Mitchell Duke,https://www.fifaratings.com/mitchell-duke,Striker (ST),70,67,60,58,70,80,58,50,10
+44,Australia,Andrew Redmayne,https://www.fifaratings.com/andrew-redmayne,Goalkeeper (GK),70,65,15,16,42,40,26,13,64
+45,Australia,Kye Rowles,https://www.fifaratings.com/kye-rowles,Center Back (CB),69,74,40,37,63,59,48,68,10
+46,Australia,Fran Karačić,https://www.fifaratings.com/fran-karacic,Right Wing Back (RWB),69,72,50,58,73,67,61,62,10
+47,Australia,Bailey Wright,https://www.fifaratings.com/bailey-wright,Center Back (CB),68,68,47,44,56,62,54,67,14
+48,Australia,Jason Cummings,https://www.fifaratings.com/jason-cummings,Striker (ST),67,69,59,59,70,68,63,31,11
+49,Australia,Joel King,https://www.fifaratings.com/joel-king,Left Back (LB),66,77,46,52,67,57,48,63,10
+50,Australia,Thomas Deng,https://www.fifaratings.com/thomas-deng,Center Back (CB),65,67,48,43,69,68,51,63,10
+51,Australia,Garang Kuol,https://www.fifaratings.com/garang-kuol,Right Midfielder (RM),60,82,51,52,73,50,48,19,10
+52,Belgium,Kevin De Bruyne,https://www.fifaratings.com/kevin-de-bruyne,Center Midfielder (CM),91,91,82,89,79,82,83,62,11
+53,Belgium,Thibaut Courtois,https://www.fifaratings.com/thibaut-courtois,Goalkeeper (GK),90,91,17,22,57,50,31,18,85
+54,Belgium,Romelu Lukaku,https://www.fifaratings.com/romelu-lukaku,Striker (ST),86,86,81,75,71,80,72,34,11
+55,Belgium,Yannick Carrasco,https://www.fifaratings.com/yannick-carrasco,Left Midfielder (LM),85,85,74,83,83,76,73,56,10
+56,Belgium,Youri Tielemans,https://www.fifaratings.com/youri-tielemans,Center Midfielder (CM),84,86,78,83,68,79,78,70,10
+57,Belgium,Koen Casteels,https://www.fifaratings.com/koen-casteels,Goalkeeper (GK),84,85,18,21,53,50,28,16,83
+58,Belgium,Eden Hazard,https://www.fifaratings.com/eden-hazard,Left Wing (LW),84,84,77,84,83,70,73,28,9
+59,Belgium,Dries Mertens,https://www.fifaratings.com/dries-mertens,Center Forward (CF),84,84,70,82,83,64,70,34,8
+60,Belgium,Toby Alderweireld,https://www.fifaratings.com/toby-alderweireld,Center Back (CB),82,82,61,68,63,73,70,85,13
+61,Belgium,Simon Mignolet,https://www.fifaratings.com/simon-mignolet,Goalkeeper (GK),81,81,21,22,52,49,36,12,79
+62,Belgium,Jan Vertonghen,https://www.fifaratings.com/jan-vertonghen,Center Back (CB),81,81,66,69,67,77,71,84,9
+63,Belgium,Hans Vanaken,https://www.fifaratings.com/hans-vanaken,Center Midfielder (CM),80,80,81,79,52,73,75,54,11
+64,Belgium,Axel Witsel,https://www.fifaratings.com/axel-witsel,Center Defensive Midfielder (CDM),79,79,75,74,55,69,76,77,7
+65,Belgium,Thorgan Hazard,https://www.fifaratings.com/thorgan-hazard,Left Midfielder (LM),79,79,70,80,81,70,72,52,7
+66,Belgium,Leandro Trossard,https://www.fifaratings.com/leandro-trossard,Left Midfielder (LM),79,79,74,77,83,74,63,26,9
+67,Belgium,Charles De Ketelaere,https://www.fifaratings.com/charles-de-ketelaere,Center Attacking Midfielder (CAM),78,88,76,78,74,76,70,54,10
+68,Belgium,Timothy Castagne,https://www.fifaratings.com/timothy-castagne,Right Wing Back (RWB),78,80,64,63,73,67,69,75,13
+69,Belgium,Thomas Meunier,https://www.fifaratings.com/thomas-meunier,Right Back (RB),78,78,76,70,65,80,73,75,10
+70,Belgium,Wout Faes,https://www.fifaratings.com/wout-faes,Center Back (CB),77,82,49,53,58,63,58,78,9
+71,Belgium,Michy Batshuayi,https://www.fifaratings.com/michy-batshuayi,Striker (ST),77,77,71,62,74,77,62,28,11
+72,Belgium,Arthur Theate,https://www.fifaratings.com/arthur-theate,Center Back (CB),76,82,46,46,62,70,53,76,9
+73,Belgium,Leander Dendoncker,https://www.fifaratings.com/leander-dendoncker,Center Defensive Midfielder (CDM),76,77,72,73,60,79,72,77,11
+74,Belgium,Jérémy Doku,https://www.fifaratings.com/jeremy-doku,Center Attacking Midfielder (CAM),75,85,59,64,86,67,57,25,10
+75,Belgium,Amadou Onana,https://www.fifaratings.com/amadou-onana,Center Defensive Midfielder (CDM),75,85,62,64,66,70,65,72,10
+76,Belgium,Loïs Openda,https://www.fifaratings.com/lois-openda,Striker (ST),75,83,69,59,84,77,63,21,10
+77,Belgium,Zeno Debast,https://www.fifaratings.com/zeno-debast,Center Defensive Midfielder (CDM),73,81,57,60,59,63,58,64,8
+78,Brazil,Ederson Santana de Moraes,https://www.fifaratings.com/ederson-santana-de-moraes,Goalkeeper (GK),89,91,25,33,65,55,46,17,88
+79,Brazil,Alisson Ramses Becker,https://www.fifaratings.com/alisson-ramses-becker,Goalkeeper (GK),89,90,28,32,54,48,35,17,87
+80,Brazil,Neymar da Silva Santos Jr.,https://www.fifaratings.com/neymar-da-silva-santos-jr,Left Wing (LW),89,89,80,89,87,71,77,32,12
+81,Brazil,Carlos Henrique Venancio Casimiro,https://www.fifaratings.com/carlos-henrique-venancio-casimiro,Center Defensive Midfielder (CDM),89,89,69,73,68,87,80,87,13
+82,Brazil,Marcos Aoás Corrêa,https://www.fifaratings.com/marcos-aoas-correa,Center Back (CB),88,90,67,65,76,72,76,89,9
+83,Brazil,Vinícius José de Oliveira Júnior,https://www.fifaratings.com/vinicius-jose-de-oliveira-junior,Left Wing (LW),86,92,71,79,90,75,64,25,7
+84,Brazil,Thiago Emiliano da Silva,https://www.fifaratings.com/thiago-emiliano-da-silva,Center Back (CB),86,86,65,70,62,74,74,86,9
+85,Brazil,Fábio Henrique Tavares,https://www.fifaratings.com/fabio-henrique-tavares,Center Defensive Midfielder (CDM),86,86,69,73,69,79,82,87,9
+86,Brazil,Éder Gabriel Militão,https://www.fifaratings.com/eder-gabriel-militao,Center Back (CB),84,89,62,64,78,71,71,85,12
+87,Brazil,Weverton Pereira da Silva,https://www.fifaratings.com/weverton-pereira-da-silva,Goalkeeper (GK),84,84,21,23,47,52,28,14,83
+88,Brazil,Gleison Bremer Silva Nascimento,https://www.fifaratings.com/gleison-bremer-silva-nascimento,Center Back (CB),83,87,58,52,73,68,64,84,10
+89,Brazil,Gabriel Fernando de Jesus,https://www.fifaratings.com/gabriel-fernando-de-jesus,Striker (ST),83,86,78,74,86,78,71,34,10
+90,Brazil,Raphael Dias Belloli,https://www.fifaratings.com/raphael-dias-belloli,Left Midfielder (LM),83,86,70,81,86,77,75,46,10
+91,Brazil,Antony Matheus dos Santos,https://www.fifaratings.com/antony-matheus-dos-santos,Left Midfielder (LM),82,88,68,78,88,69,69,35,11
+92,Brazil,Bruno Guimarães Moura,https://www.fifaratings.com/bruno-guimaraes-moura,Center Midfielder (CM),82,87,69,77,74,70,76,77,11
+93,Brazil,Lucas Tolentino Coelho de Lima,https://www.fifaratings.com/lucas-tolentino-coelho-de-lima,Center Attacking Midfielder (CAM),82,87,75,81,75,78,79,67,11
+94,Brazil,Rodrygo Silva de Goes,https://www.fifaratings.com/rodrygo-silva-de-goes,Right Midfielder (RM),81,88,72,77,85,69,64,31,8
+95,Brazil,Richarlison de Andrade,https://www.fifaratings.com/richarlison-de-andrade,Striker (ST),81,84,77,73,79,80,74,50,10
+96,Brazil,Danilo Luiz da Silva,https://www.fifaratings.com/danilo-luiz-da-silva,Right Back (RB),81,81,71,74,69,77,73,81,11
+97,Brazil,Pedro Guilherme Abreu dos Santos,https://www.fifaratings.com/pedro-guilherme-abreu-dos-santos,Striker (ST),80,84,70,63,71,74,67,37,8
+98,Brazil,Alex Sandro Lobo Silva,https://www.fifaratings.com/alex-sandro-lobo-silva,Left Back (LB),80,80,71,72,76,77,72,77,8
+99,Brazil,Frederico de Paula Santos,https://www.fifaratings.com/frederico-de-paula-santos,Center Midfielder (CM),80,80,67,78,83,75,76,74,13
+100,Brazil,Alex Nicolao Telles,https://www.fifaratings.com/alex-nicolao-telles,Left Back (LB),80,80,72,80,76,79,78,76,12
+101,Brazil,Éverton Augusto de Barros Ribeiro,https://www.fifaratings.com/everton-augusto-de-barros-ribeiro,Center Attacking Midfielder (CAM),80,80,74,78,80,65,68,41,11
+102,Brazil,Gabriel Teodoro Martinelli Silva,https://www.fifaratings.com/gabriel-teodoro-martinelli-silva,Right Midfielder (RM),78,88,71,66,82,66,67,44,7
+103,Brazil,Daniel Alves da Silva,https://www.fifaratings.com/daniel-alves-da-silva,Right Back (RB),77,77,71,78,74,69,76,72,8
+104,Cameroon,André Onana,https://www.fifaratings.com/andre-onana,Goalkeeper (GK),82,85,21,33,64,55,36,15,82
+105,Cameroon,André-Franck Zambo Anguissa,https://www.fifaratings.com/andre-franck-zambo-anguissa,Center Defensive Midfielder (CDM),81,83,66,68,78,78,77,79,10
+106,Cameroon,Karl Toko Ekambi,https://www.fifaratings.com/karl-toko-ekambi,Left Midfielder (LM),77,77,75,71,78,75,63,18,11
+107,Cameroon,Nicolas Moumi Ngamaleu,https://www.fifaratings.com/nicolas-moumi-ngamaleu,Left Midfielder (LM),76,76,69,66,83,75,61,30,11
+108,Cameroon,Bryan Mbeumo,https://www.fifaratings.com/bryan-mbeumo,Center Attacking Midfielder (CAM),75,78,70,71,80,73,66,39,13
+109,Cameroon,Eric Maxim Choupo-Moting,https://www.fifaratings.com/eric-maxim-choupo-moting,Striker (ST),75,75,73,68,70,73,64,29,10
+110,Cameroon,Jean-Pierre Nsame,https://www.fifaratings.com/jean-pierre-nsame,Striker (ST),75,75,66,59,70,80,61,21,10
+111,Cameroon,Vincent Aboubakar,https://www.fifaratings.com/vincent-aboubakar,Striker (ST),75,75,72,73,71,76,70,29,8
+112,Cameroon,Georges-Kévin Nkoudou Mbida,https://www.fifaratings.com/georges-kevin-nkoudou-mbida,Left Midfielder (LM),75,75,65,69,85,64,55,36,10
+113,Cameroon,Jean-Charles Castelletto,https://www.fifaratings.com/jean-charles-castelletto,Center Back (CB),74,75,48,51,63,62,56,74,13
+114,Cameroon,Nicolas Nkoulou,https://www.fifaratings.com/nicolas-nkoulou,Center Back (CB),74,74,59,51,65,59,66,75,8
+115,Cameroon,Christian Bassogog,https://www.fifaratings.com/christian-bassogog,Striker (ST),74,74,64,71,86,76,57,38,8
+116,Cameroon,Pierre Kunde,https://www.fifaratings.com/pierre-kunde,Center Attacking Midfielder (CAM),72,73,62,67,75,77,71,70,9
+117,Cameroon,Martin Hongla,https://www.fifaratings.com/martin-hongla,Center Attacking Midfielder (CAM),71,77,67,69,75,79,67,63,10
+118,Cameroon,Olivier Ntcham,https://www.fifaratings.com/olivier-ntcham,Center Attacking Midfielder (CAM),71,72,64,73,70,74,71,63,10
+119,Cameroon,Christopher Wooh,https://www.fifaratings.com/christopher-wooh,Center Back (CB),70,79,52,52,60,64,58,67,7
+120,Cameroon,Enzo Ebosse,https://www.fifaratings.com/enzo-ebosse,Center Back (CB),70,78,50,54,63,60,54,72,10
+121,Cameroon,Nouhou Tolo,https://www.fifaratings.com/nouhou-tolo,Left Back (LB),70,71,44,49,76,68,60,68,9
+122,Cameroon,Collins Fai,https://www.fifaratings.com/collins-fai,Right Back (RB),70,70,44,51,83,63,60,67,9
+123,Cameroon,Samuel Oum Gouet,https://www.fifaratings.com/samuel-oum-gouet,Center Defensive Midfielder (CDM),68,74,56,60,61,69,59,63,10
+124,Cameroon,Gaël Ondoua,https://www.fifaratings.com/gael-ondoua,Center Defensive Midfielder (CDM),68,71,53,54,68,66,61,64,9
+125,Cameroon,Simon Ngapandouetnbu,https://www.fifaratings.com/simon-ngapandouetnbu,Goalkeeper (GK),67,75,11,15,34,39,17,10,67
+126,Cameroon,Olivier Mbaizo,https://www.fifaratings.com/olivier-mbaizo,Right Wing Back (RWB),67,71,52,56,73,56,51,61,11
+127,Cameroon,Jerome Ngom Mbekeli,https://www.fifaratings.com/jerome-ngom-mbekeli,Center Attacking Midfielder (CAM),66,72,58,61,69,58,49,29,9
+128,Cameroon,Souaibou Marou,https://www.fifaratings.com/souaibou-marou,Striker (ST),65,74,61,56,62,61,52,19,10
+129,Cameroon,Devis Epassy,https://www.fifaratings.com/devis-epassy,Goalkeeper (GK),65,68,19,19,47,42,24,17,64
+130,Canada,Alphonso Davies,https://www.fifaratings.com/alphonso-davies,Left Midfielder (LM),84,89,72,71,89,74,75,75,9
+131,Canada,Jonathan David,https://www.fifaratings.com/jonathan-david,Striker (ST),79,85,74,68,77,79,64,26,8
+132,Canada,Stephen Antunes Eustáquio,https://www.fifaratings.com/stephen-antunes-eustaquio,Center Defensive Midfielder (CDM),77,82,63,72,70,72,70,73,8
+133,Canada,Milan Borjan,https://www.fifaratings.com/milan-borjan,Goalkeeper (GK),77,77,22,26,49,51,39,22,76
+134,Canada,Jonathan Osorio,https://www.fifaratings.com/jonathan-osorio,Center Midfielder (CM),74,74,65,70,72,67,66,60,11
+135,Canada,Cyle Larin,https://www.fifaratings.com/cyle-larin,Striker (ST),73,74,70,60,66,76,59,22,10
+136,Canada,Iké Ugbo,https://www.fifaratings.com/ike-ugbo,Striker (ST),72,78,68,51,71,67,61,23,11
+137,Canada,Tajon Buchanan,https://www.fifaratings.com/tajon-buchanan,Right Midfielder (RM),72,78,60,56,80,65,60,55,9
+138,Canada,Atiba Hutchinson,https://www.fifaratings.com/atiba-hutchinson,Center Defensive Midfielder (CDM),72,72,70,69,60,66,72,71,10
+139,Canada,Richie Laryea,https://www.fifaratings.com/richie-laryea,Right Wing Back (RWB),72,72,56,62,76,68,65,66,10
+140,Canada,Dayne St. Clair,https://www.fifaratings.com/dayne-st-clair,Goalkeeper (GK),71,77,10,15,37,31,21,10,68
+141,Canada,Liam Millar,https://www.fifaratings.com/liam-millar,Right Midfielder (RM),71,76,59,56,73,65,48,20,10
+142,Canada,Kamal Miller,https://www.fifaratings.com/kamal-miller,Center Back (CB),71,75,54,53,66,58,59,69,10
+143,Canada,Alistair Johnston,https://www.fifaratings.com/alistair-johnston,Right Midfielder (RM),71,75,55,60,74,69,67,70,11
+144,Canada,Lucas Cavallini,https://www.fifaratings.com/lucas-cavallini,Striker (ST),71,71,61,56,63,78,63,30,10
+145,Canada,Junior Hoilett,https://www.fifaratings.com/junior-hoilett,Right Wing (RW),71,71,65,68,79,67,63,37,10
+146,Canada,Samuel Piette,https://www.fifaratings.com/samuel-piette,Center Defensive Midfielder (CDM),71,71,45,51,64,65,56,69,10
+147,Canada,Sam Adekugbe,https://www.fifaratings.com/sam-adekugbe,Left Back (LB),70,71,51,58,78,73,57,63,10
+148,Canada,Mark-Anthony Kaye,https://www.fifaratings.com/mark-anthony-kaye,Center Midfielder (CM),70,70,59,62,67,67,65,67,9
+149,Canada,Steven de Sousa Vitória,https://www.fifaratings.com/steven-de-sousa-vitoria,Center Back (CB),69,69,53,59,40,62,58,68,8
+150,Canada,Derek Cornelius,https://www.fifaratings.com/derek-cornelius,Center Back (CB),68,71,50,45,54,68,55,63,10
+151,Canada,Joel Waterman,https://www.fifaratings.com/joel-waterman,Center Back (CB),67,70,42,45,49,53,55,66,9
+152,Canada,David Wotherspoon,https://www.fifaratings.com/david-wotherspoon,Center Attacking Midfielder (CAM),67,67,63,69,65,66,63,60,11
+153,Canada,Ismaël Koné,https://www.fifaratings.com/ismael-kone,Center Attacking Midfielder (CAM),66,80,50,62,68,66,58,54,10
+154,Canada,James Pantemis,https://www.fifaratings.com/james-pantemis,Goalkeeper (GK),66,70,13,14,39,41,20,11,63
+155,Canada,Liam Fraser,https://www.fifaratings.com/liam-fraser,Center Defensive Midfielder (CDM),65,70,49,57,57,56,55,59,11
+156,Costa Rica,Keylor Navas,https://www.fifaratings.com/keylor-navas,Goalkeeper (GK),88,88,18,25,63,51,38,19,85
+157,Costa Rica,Bryan Ruiz,https://www.fifaratings.com/bryan-ruiz,Center Attacking Midfielder (CAM),78,78,77,80,67,65,65,45,8
+158,Costa Rica,Óscar Esau Duarte Gaitán,https://www.fifaratings.com/oscar-esau-duarte-gaitan,Center Back (CB),77,77,57,50,50,62,56,78,11
+159,Costa Rica,Joel Campbell,https://www.fifaratings.com/joel-campbell,Striker (ST),77,77,75,75,72,75,68,38,13
+160,Costa Rica,Celso Borges,https://www.fifaratings.com/celso-borges,Center Defensive Midfielder (CDM),76,76,68,72,60,73,74,73,11
+161,Costa Rica,Keysher Fuller,https://www.fifaratings.com/keysher-fuller,Right Back (RB),75,75,55,58,62,49,52,77,11
+162,Costa Rica,Yeltsin Tejeda,https://www.fifaratings.com/yeltsin-tejeda,Center Midfielder (CM),74,74,61,64,68,72,67,66,13
+163,Costa Rica,Kendall Waston,https://www.fifaratings.com/kendall-waston,Center Back (CB),73,73,44,41,44,58,56,70,11
+164,Costa Rica,Juan Pablo Vargas,https://www.fifaratings.com/juan-pablo-vargas,Center Back (CB),72,75,42,41,57,54,46,73,9
+165,Costa Rica,Ronald Matarrita,https://www.fifaratings.com/ronald-matarrita,Left Back (LB),71,71,52,63,74,68,65,69,9
+166,Costa Rica,Jewison Bennette,https://www.fifaratings.com/jewison-bennette,Left Midfielder (LM),70,80,54,56,75,50,47,26,11
+167,Costa Rica,Gerson Torres,https://www.fifaratings.com/gerson-torres,Left Midfielder (LM),70,73,61,61,69,61,56,48,10
+168,Costa Rica,Esteban Alvarado,https://www.fifaratings.com/esteban-alvarado,Goalkeeper (GK),70,70,17,17,55,48,29,12,68
+169,Costa Rica,Bryan Oviedo,https://www.fifaratings.com/bryan-oviedo,Left Back (LB),70,62,55,60,65,61,59,60,11
+170,Costa Rica,Anthony Contreras,https://www.fifaratings.com/anthony-contreras,Striker (ST),69,80,59,55,65,66,47,20,9
+171,Costa Rica,Francisco Calvo,https://www.fifaratings.com/francisco-calvo,Center Back (CB),69,69,54,59,68,67,62,63,10
+172,Costa Rica,Johan Venegas,https://www.fifaratings.com/johan-venegas,Left Midfielder (LM),69,69,64,67,69,69,64,37,9
+173,Costa Rica,Daniel Chacón,https://www.fifaratings.com/daniel-chacon,Center Back (CB),67,77,40,41,58,48,49,69,8
+174,Costa Rica,Brandon Aguilera,https://www.fifaratings.com/brandon-aguilera,Center Attacking Midfielder (CAM),65,76,52,58,68,54,57,45,9
+175,Costa Rica,Douglas López,https://www.fifaratings.com/douglas-lopez,Center Defensive Midfielder (CDM),65,74,42,49,60,54,58,63,11
+176,Costa Rica,Youstin Salas,https://www.fifaratings.com/youstin-salas,Center Midfielder (CM),65,68,53,54,63,56,59,47,10
+177,Costa Rica,Carlos Manuel Martínez Castro,https://www.fifaratings.com/carlos-manuel-martinez-castro,Right Back (RB),62,71,44,41,64,46,45,64,10
+178,Costa Rica,Patrick Gilmar Sequeira,https://www.fifaratings.com/patrick-gilmar-sequeira,Goalkeeper (GK),62,69,16,14,45,40,27,12,62
+179,Costa Rica,Álvaro Zamora,https://www.fifaratings.com/alvaro-zamora,Right Midfielder (RM),61,75,54,53,61,49,47,26,8
+180,Costa Rica,Anthony Hernández,https://www.fifaratings.com/anthony-hernandez,Striker (ST),61,75,55,53,63,58,42,17,9
+181,Costa Rica,Roan Wilson,https://www.fifaratings.com/roan-wilson,Center Attacking Midfielder (CAM),61,75,46,52,63,55,56,52,9
+182,Croatia,Luka Modrić,https://www.fifaratings.com/luka-modric,Center Midfielder (CM),88,88,76,86,83,74,81,72,10
+183,Croatia,Marcelo Brozović,https://www.fifaratings.com/marcelo-brozovic,Center Defensive Midfielder (CDM),86,86,72,80,77,79,79,82,10
+184,Croatia,Mateo Kovačić,https://www.fifaratings.com/mateo-kovacic,Center Midfielder (CM),84,84,68,82,79,75,76,72,7
+185,Croatia,Ivan Perišić,https://www.fifaratings.com/ivan-perisic,Left Midfielder (LM),83,83,81,79,79,83,77,73,8
+186,Croatia,Andrej Kramarić,https://www.fifaratings.com/andrej-kramaric,Center Forward (CF),82,82,77,79,79,76,71,27,12
+187,Croatia,Joško Gvardiol,https://www.fifaratings.com/josko-gvardiol,Center Back (CB),81,89,62,69,75,76,71,81,8
+188,Croatia,Mario Pašalić,https://www.fifaratings.com/mario-pasalic,Center Attacking Midfielder (CAM),81,81,74,75,71,76,75,66,13
+189,Croatia,Lovro Majer,https://www.fifaratings.com/lovro-majer,Center Attacking Midfielder (CAM),80,85,71,82,74,69,73,60,9
+190,Croatia,Dominik Livaković,https://www.fifaratings.com/dominik-livakovic,Goalkeeper (GK),80,83,19,25,57,46,33,22,78
+191,Croatia,Borna Sosa,https://www.fifaratings.com/borna-sosa,Left Wing Back (LWB),78,83,62,73,75,70,65,73,8
+192,Croatia,Nikola Vlašić,https://www.fifaratings.com/nikola-vlasic,Center Attacking Midfielder (CAM),78,81,72,76,80,71,65,48,12
+193,Croatia,Dejan Lovren,https://www.fifaratings.com/dejan-lovren,Center Back (CB),78,78,56,50,54,64,60,80,12
+194,Croatia,Mislav Oršić,https://www.fifaratings.com/mislav-orsic,Left Wing (LW),77,77,72,75,85,74,67,56,11
+195,Croatia,Marko Livaja,https://www.fifaratings.com/marko-livaja,Striker (ST),77,77,74,71,75,77,73,33,13
+196,Croatia,Josip Šutalo,https://www.fifaratings.com/josip-sutalo,Center Back (CB),76,84,48,51,69,60,58,76,11
+197,Croatia,Kristijan Jakić,https://www.fifaratings.com/kristijan-jakic,Center Defensive Midfielder (CDM),76,79,61,60,68,76,67,73,9
+198,Croatia,Domagoj Vida,https://www.fifaratings.com/domagoj-vida,Center Back (CB),76,76,56,51,69,65,63,78,11
+199,Croatia,Ante Budimir,https://www.fifaratings.com/ante-budimir,Striker (ST),76,76,68,58,56,72,60,30,13
+200,Croatia,Josip Juranović,https://www.fifaratings.com/josip-juranovic,Right Back (RB),75,76,64,70,81,68,72,71,11
+201,Croatia,Bruno Petković,https://www.fifaratings.com/bruno-petkovic,Center Attacking Midfielder (CAM),75,75,75,77,67,75,64,36,12
+202,Croatia,Luka Sučić,https://www.fifaratings.com/luka-sucic,Center Attacking Midfielder (CAM),74,85,66,75,72,70,64,47,11
+203,Croatia,Martin Erlić,https://www.fifaratings.com/martin-erlic,Center Back (CB),74,79,47,46,57,54,55,75,9
+204,Croatia,Ivo Grbić,https://www.fifaratings.com/ivo-grbic,Goalkeeper (GK),74,78,15,20,34,43,23,12,73
+205,Croatia,Ivica Ivušić,https://www.fifaratings.com/ivica-ivusic,Goalkeeper (GK),73,76,11,16,52,46,24,15,70
+206,Croatia,Borna Barišić,https://www.fifaratings.com/borna-barisic,Left Back (LB),73,73,67,73,68,71,69,70,10
+207,Croatia,Josip Stanišić,https://www.fifaratings.com/josip-stanisic,Right Back (RB),72,81,55,51,68,56,53,71,10
+208,Denmark,Pierre-Emile Højbjerg,https://www.fifaratings.com/pierre-emile-hojbjerg,Center Defensive Midfielder (CDM),84,86,70,77,65,79,75,80,10
+209,Denmark,Kasper Schmeichel,https://www.fifaratings.com/kasper-schmeichel,Goalkeeper (GK),83,83,20,26,56,46,37,14,81
+210,Denmark,Andreas Christensen,https://www.fifaratings.com/andreas-christensen,Center Back (CB),82,86,54,59,68,56,62,84,9
+211,Denmark,Simon Kjær,https://www.fifaratings.com/simon-kjaer,Center Back (CB),82,82,59,62,62,68,64,83,11
+212,Denmark,Christian Eriksen,https://www.fifaratings.com/christian-eriksen,Center Midfielder (CM),82,82,76,86,70,66,69,46,9
+213,Denmark,Thomas Delaney,https://www.fifaratings.com/thomas-delaney,Center Defensive Midfielder (CDM),81,81,73,73,73,81,76,82,12
+214,Denmark,Daniel Wass,https://www.fifaratings.com/daniel-wass,Center Midfielder (CM),79,79,75,79,73,77,74,75,11
+215,Denmark,Alexander Bah,https://www.fifaratings.com/alexander-bah,Right Back (RB),78,83,65,66,81,76,69,71,10
+216,Denmark,Rasmus Kristensen,https://www.fifaratings.com/rasmus-kristensen,Right Wing Back (RWB),77,82,69,68,75,79,71,73,9
+217,Denmark,Kasper Dolberg,https://www.fifaratings.com/kasper-dolberg,Striker (ST),77,81,71,72,70,77,60,24,10
+218,Denmark,Joachim Andersen,https://www.fifaratings.com/joachim-andersen,Center Defensive Midfielder (CDM),77,80,57,66,56,71,64,77,12
+219,Denmark,Yussuf Poulsen,https://www.fifaratings.com/yussuf-poulsen,Striker (ST),77,77,76,63,72,76,70,49,11
+220,Denmark,Mikkel Damsgaard,https://www.fifaratings.com/mikkel-damsgaard,Center Attacking Midfielder (CAM),76,84,61,76,83,68,63,46,10
+221,Denmark,Jesper Lindstrøm,https://www.fifaratings.com/jesper-lindstrom,Center Attacking Midfielder (CAM),76,84,62,68,82,65,63,51,12
+222,Denmark,Andreas Skov Olsen,https://www.fifaratings.com/andreas-skov-olsen,Left Midfielder (LM),76,83,71,71,76,72,62,36,9
+223,Denmark,Jonas Wind,https://www.fifaratings.com/jonas-wind,Striker (ST),76,82,71,70,69,76,67,29,9
+224,Denmark,Martin Braithwaite,https://www.fifaratings.com/martin-braithwaite,Striker (ST),76,76,72,74,77,76,67,30,11
+225,Denmark,Christian Nørgaard,https://www.fifaratings.com/christian-norgaard,Center Defensive Midfielder (CDM),76,76,64,68,65,69,70,76,12
+226,Denmark,Victor Nelsson,https://www.fifaratings.com/victor-nelsson,Center Back (CB),75,81,54,57,69,70,63,74,10
+227,Denmark,Joakim Mæhle,https://www.fifaratings.com/joakim-maehle,Right Wing Back (RWB),75,78,64,63,75,74,64,69,10
+228,Denmark,Mathias Jensen,https://www.fifaratings.com/mathias-jensen,Center Midfielder (CM),75,77,62,72,73,68,73,67,10
+229,Denmark,Andreas Cornelius,https://www.fifaratings.com/andreas-cornelius,Striker (ST),75,75,71,59,60,77,64,27,10
+230,Denmark,Frederik Riis Rønnow,https://www.fifaratings.com/frederik-riis-ronnow,Goalkeeper (GK),75,75,13,16,48,45,23,13,73
+231,Denmark,Jens Stryger Larsen,https://www.fifaratings.com/jens-stryger-larsen,Right Back (RB),75,75,65,65,74,71,67,71,9
+232,Denmark,Robert Skov,https://www.fifaratings.com/robert-skov,Right Wing (RW),74,75,71,77,75,71,70,66,14
+233,Denmark,Oliver Christensen,https://www.fifaratings.com/oliver-christensen,Goalkeeper (GK),73,79,15,21,41,45,29,13,68
+234,Ecuador,Pervis Estupiñán,https://www.fifaratings.com/pervis-estupinan,Left Back (LB),79,83,64,60,77,62,65,76,10
+235,Ecuador,Piero Hincapié,https://www.fifaratings.com/piero-hincapie,Center Back (CB),78,85,56,61,75,61,61,80,10
+236,Ecuador,Gonzalo Plata,https://www.fifaratings.com/gonzalo-plata,Center Attacking Midfielder (CAM),77,86,66,70,85,64,64,42,11
+237,Ecuador,Ángel Israel Mena Delgado,https://www.fifaratings.com/angel-israel-mena-delgado,Left Wing (LW),77,77,74,73,82,59,61,42,10
+238,Ecuador,Felix Torres,https://www.fifaratings.com/felix-torres,Center Back (CB),76,83,49,51,66,63,60,77,8
+239,Ecuador,Enner Valencia,https://www.fifaratings.com/enner-valencia,Striker (ST),76,76,69,71,80,80,66,43,11
+240,Ecuador,Michael Estrada,https://www.fifaratings.com/michael-estrada,Striker (ST),74,77,64,53,69,68,57,18,9
+241,Ecuador,Alexander Dom√≠nguez,https://www.fifaratings.com/alexander-dom%e2%88%9a%e2%89%a0nguez,Goalkeeper (GK),74,74,20,27,41,46,37,23,73
+242,Ecuador,Robert Arboleda,https://www.fifaratings.com/robert-arboleda,Center Back (CB),74,74,51,47,68,61,57,78,10
+243,Ecuador,Moisés Caicedo,https://www.fifaratings.com/moises-caicedo,Center Defensive Midfielder (CDM),73,82,58,62,71,70,67,73,11
+244,Ecuador,José Cifuentes,https://www.fifaratings.com/jose-cifuentes,Center Defensive Midfielder (CDM),73,80,60,62,72,72,65,71,11
+245,Ecuador,Carlos Gruezo,https://www.fifaratings.com/carlos-gruezo,Center Defensive Midfielder (CDM),73,75,49,59,71,63,64,71,11
+246,Ecuador,Romario Ibarra,https://www.fifaratings.com/romario-ibarra,Right Midfielder (RM),73,73,65,65,79,66,58,38,10
+247,Ecuador,Ayrton Preciado,https://www.fifaratings.com/ayrton-preciado,Left Midfielder (LM),73,73,69,70,78,71,59,23,8
+248,Ecuador,Hernán Ismael Galíndez,https://www.fifaratings.com/hernan-ismael-galindez,Goalkeeper (GK),73,73,14,19,39,44,30,13,72
+249,Ecuador,Diego Palacios,https://www.fifaratings.com/diego-palacios,Left Wing Back (LWB),71,79,48,54,75,56,59,69,8
+250,Ecuador,Xavier Arreaga,https://www.fifaratings.com/xavier-arreaga,Center Back (CB),71,71,44,45,58,55,51,70,9
+251,Ecuador,Moisés Ramírez,https://www.fifaratings.com/moises-ramirez,Goalkeeper (GK),70,81,15,13,44,40,21,12,68
+252,Ecuador,Jeremy Sarmiento,https://www.fifaratings.com/jeremy-sarmiento,Center Attacking Midfielder (CAM),69,80,56,61,73,55,51,30,12
+253,Ecuador,William Pacho,https://www.fifaratings.com/william-pacho,Center Back (CB),69,78,44,47,67,59,52,66,11
+254,Ecuador,Sebastían Méndez,https://www.fifaratings.com/sebastian-mendez,Center Defensive Midfielder (CDM),69,74,59,59,69,65,59,65,11
+255,Ecuador,Ángelo Preciado,https://www.fifaratings.com/angelo-preciado,Right Wing Back (RWB),69,74,56,57,74,66,54,65,11
+256,Ecuador,Jackson Porozo,https://www.fifaratings.com/jackson-porozo,Center Back (CB),68,77,40,35,53,57,51,68,10
+257,Ecuador,Djorkaeff Reasco,https://www.fifaratings.com/djorkaeff-reasco,Striker (ST),67,72,60,56,70,70,62,26,9
+258,Ecuador,Kevin Rodríguez,https://www.fifaratings.com/kevin-rodriguez,Striker (ST),66,74,59,56,70,66,55,17,11
+259,England,Harry Kane,https://www.fifaratings.com/harry-kane,Striker (ST),89,89,86,80,73,85,82,41,11
+260,England,Trent Alexander-Arnold,https://www.fifaratings.com/trent-alexander-arnold,Center Midfielder (CM),86,89,75,85,76,76,77,81,11
+261,England,Raheem Sterling,https://www.fifaratings.com/raheem-sterling,Left Wing (LW),86,86,71,78,92,72,68,49,13
+262,England,Phil Foden,https://www.fifaratings.com/phil-foden,Center Attacking Midfielder (CAM),85,92,69,80,86,68,73,55,10
+263,England,Kyle Walker,https://www.fifaratings.com/kyle-walker,Right Back (RB),85,85,68,78,80,81,73,81,11
+264,England,Jude Bellingham,https://www.fifaratings.com/jude-bellingham,Center Midfielder (CM),84,91,73,74,79,78,77,78,10
+265,England,Mason Mount,https://www.fifaratings.com/mason-mount,Center Attacking Midfielder (CAM),84,87,77,83,77,72,74,51,11
+266,England,Declan Rice,https://www.fifaratings.com/declan-rice,Center Defensive Midfielder (CDM),84,87,64,71,69,76,77,82,9
+267,England,Jack Grealish,https://www.fifaratings.com/jack-grealish,Left Wing (LW),84,84,70,82,80,67,70,47,10
+268,England,Kieran Trippier,https://www.fifaratings.com/kieran-trippier,Right Back (RB),84,84,72,81,74,75,76,80,11
+269,England,James Maddison,https://www.fifaratings.com/james-maddison,Center Attacking Midfielder (CAM),83,85,70,85,78,69,73,55,13
+270,England,John Stones,https://www.fifaratings.com/john-stones,Center Back (CB),83,84,65,64,70,67,69,84,10
+271,England,Bukayo Saka,https://www.fifaratings.com/bukayo-saka,Left Midfielder (LM),82,89,71,76,83,67,74,67,10
+272,England,Aaron Ramsdale,https://www.fifaratings.com/aaron-ramsdale,Goalkeeper (GK),82,86,23,28,56,48,39,17,81
+273,England,Jordan Pickford,https://www.fifaratings.com/jordan-pickford,Goalkeeper (GK),82,84,26,30,57,54,44,18,83
+274,England,Jordan Henderson,https://www.fifaratings.com/jordan-henderson,Center Midfielder (CM),82,82,75,80,70,79,78,78,10
+275,England,Nick Pope,https://www.fifaratings.com/nick-pope,Goalkeeper (GK),82,82,16,23,50,51,34,14,80
+276,England,Marcus Rashford,https://www.fifaratings.com/marcus-rashford,Striker (ST),81,85,75,78,82,77,70,37,11
+277,England,Kalvin Phillips,https://www.fifaratings.com/kalvin-phillips,Center Defensive Midfielder (CDM),81,85,67,73,71,78,74,81,10
+278,England,Harry Maguire,https://www.fifaratings.com/harry-maguire,Center Back (CB),81,82,62,65,49,76,73,78,12
+279,England,Benjamin White,https://www.fifaratings.com/benjamin-white,Center Defensive Midfielder (CDM),80,86,50,58,67,61,62,81,8
+280,England,Luke Shaw,https://www.fifaratings.com/luke-shaw,Left Back (LB),80,81,68,73,75,72,73,79,10
+281,England,Eric Dier,https://www.fifaratings.com/eric-dier,Center Back (CB),80,81,65,71,54,78,72,81,11
+282,England,Conor Gallagher,https://www.fifaratings.com/conor-gallagher,Center Midfielder (CM),79,86,67,74,73,74,72,68,9
+283,England,Callum Wilson,https://www.fifaratings.com/callum-wilson,Striker (ST),79,79,73,65,77,73,72,35,10
+284,England,Conor Coady,https://www.fifaratings.com/conor-coady,Center Back (CB),79,79,66,68,55,72,68,78,11
+285,France,Kylian Mbappé,https://www.fifaratings.com/kylian-mbappe,Striker (ST),91,95,82,81,92,82,74,31,8
+286,France,Hugo Lloris,https://www.fifaratings.com/hugo-lloris,Goalkeeper (GK),87,87,20,24,63,46,37,18,83
+287,France,Kingsley Coman,https://www.fifaratings.com/kingsley-coman,Left Midfielder (LM),86,87,75,80,89,73,62,26,4
+288,France,Theo Hernández,https://www.fifaratings.com/theo-hernandez,Left Wing Back (LWB),85,90,74,73,85,79,74,78,9
+289,France,Jules Koundé,https://www.fifaratings.com/jules-kounde,Center Back (CB),84,89,57,58,80,66,66,84,11
+290,France,Lucas Hernández,https://www.fifaratings.com/lucas-hernandez,Center Back (CB),84,86,67,60,76,71,70,84,10
+291,France,Raphaël Varane,https://www.fifaratings.com/raphael-varane,Center Back (CB),84,85,59,62,69,68,67,85,10
+292,France,Aurélien Tchouaméni,https://www.fifaratings.com/aurelien-tchouameni,Center Defensive Midfielder (CDM),83,89,69,74,73,79,77,81,10
+293,France,Ousmane Dembélé,https://www.fifaratings.com/ousmane-dembele,Left Midfielder (LM),83,86,71,79,87,67,67,35,10
+294,France,Antoine Griezmann,https://www.fifaratings.com/antoine-griezmann,Center Attacking Midfielder (CAM),83,83,83,84,83,80,77,49,13
+295,France,Olivier Giroud,https://www.fifaratings.com/olivier-giroud,Striker (ST),82,82,81,70,55,76,76,31,10
+296,France,Ibrahima Konaté,https://www.fifaratings.com/ibrahima-konate,Center Back (CB),81,88,50,53,69,61,61,81,10
+297,France,Dayot Upamecano,https://www.fifaratings.com/dayot-upamecano,Center Back (CB),81,87,54,54,74,68,62,82,9
+298,France,Alphonse Areola,https://www.fifaratings.com/alphonse-areola,Goalkeeper (GK),81,82,23,21,60,52,34,14,80
+299,France,Adrien Rabiot,https://www.fifaratings.com/adrien-rabiot,Center Midfielder (CM),81,81,72,71,73,80,74,75,10
+300,France,William Saliba,https://www.fifaratings.com/william-saliba,Center Back (CB),80,88,55,62,68,61,66,81,8
+301,France,Mattéo Guendouzi,https://www.fifaratings.com/matteo-guendouzi,Center Defensive Midfielder (CDM),80,86,67,76,75,75,77,77,10
+302,France,Benjamin Pavard,https://www.fifaratings.com/benjamin-pavard,Center Back (CB),80,82,71,66,69,75,68,80,11
+303,France,Eduardo Camavinga,https://www.fifaratings.com/eduardo-camavinga,Center Defensive Midfielder (CDM),79,89,68,75,78,74,75,78,10
+304,France,Marcus Thuram,https://www.fifaratings.com/marcus-thuram,Striker (ST),79,84,75,67,74,78,65,43,12
+305,France,Youssouf Fofana,https://www.fifaratings.com/youssouf-fofana,Center Defensive Midfielder (CDM),79,84,62,71,72,72,74,76,9
+306,France,Randal Kolo Muani,https://www.fifaratings.com/randal-kolo-muani,Striker (ST),79,84,68,70,75,70,58,32,10
+307,France,Steve Mandanda,https://www.fifaratings.com/steve-mandanda,Goalkeeper (GK),79,79,23,21,53,45,34,14,78
+308,France,Jordan Veretout,https://www.fifaratings.com/jordan-veretout,Center Defensive Midfielder (CDM),79,79,70,75,77,78,77,78,9
+309,France,Axel Disasi,https://www.fifaratings.com/axel-disasi,Center Back (CB),78,83,45,48,48,60,56,77,9
+310,Germany,Manuel Neuer,https://www.fifaratings.com/manuel-neuer,Goalkeeper (GK),90,90,25,34,57,57,43,13,89
+311,Germany,Joshua Kimmich,https://www.fifaratings.com/joshua-kimmich,Center Defensive Midfielder (CDM),89,90,77,82,79,80,78,83,12
+312,Germany,Marc-André ter Stegen,https://www.fifaratings.com/marc-andre-ter-stegen,Goalkeeper (GK),88,89,24,29,52,53,40,16,87
+313,Germany,Leon Goretzka,https://www.fifaratings.com/leon-goretzka,Center Midfielder (CM),87,88,80,81,78,85,80,79,11
+314,Germany,Antonio Rüdiger,https://www.fifaratings.com/antonio-rudiger,Center Back (CB),87,88,61,64,71,78,67,86,12
+315,Germany,Thomas Müller,https://www.fifaratings.com/thomas-muller,Center Attacking Midfielder (CAM),87,87,85,76,75,78,76,50,10
+316,Germany,Kevin Trapp,https://www.fifaratings.com/kevin-trapp,Goalkeeper (GK),86,86,15,14,51,54,32,13,83
+317,Germany,Niklas Süle,https://www.fifaratings.com/niklas-sule,Center Back (CB),85,87,57,54,60,72,65,86,12
+318,Germany,İlkay Gündoğan,https://www.fifaratings.com/ilkay-gundogan,Center Midfielder (CM),85,85,74,85,74,74,80,73,10
+319,Germany,Kai Havertz,https://www.fifaratings.com/kai-havertz,Center Attacking Midfielder (CAM),84,91,80,77,79,75,67,41,9
+320,Germany,Leroy Sané,https://www.fifaratings.com/leroy-sane,Left Midfielder (LM),84,85,80,82,85,73,69,34,10
+321,Germany,Serge Gnabry,https://www.fifaratings.com/serge-gnabry,Right Midfielder (RM),84,84,74,76,84,74,70,44,10
+322,Germany,Jamal Musiala,https://www.fifaratings.com/jamal-musiala,Center Attacking Midfielder (CAM),82,91,67,72,84,66,69,65,8
+323,Germany,Nico Schlotterbeck,https://www.fifaratings.com/nico-schlotterbeck,Center Back (CB),82,88,62,61,74,73,66,83,11
+324,Germany,Julian Brandt,https://www.fifaratings.com/julian-brandt,Center Attacking Midfielder (CAM),82,85,75,79,76,74,66,46,11
+325,Germany,Matthias Ginter,https://www.fifaratings.com/matthias-ginter,Center Back (CB),82,83,67,60,61,72,71,83,9
+326,Germany,Mario Götze,https://www.fifaratings.com/mario-gotze,Center Attacking Midfielder (CAM),81,81,74,81,75,69,76,53,10
+327,Germany,Jonas Hofmann,https://www.fifaratings.com/jonas-hofmann,Center Attacking Midfielder (CAM),81,81,70,78,77,72,77,61,8
+328,Germany,David Raum,https://www.fifaratings.com/david-raum,Left Wing Back (LWB),80,84,66,74,81,71,67,72,10
+329,Germany,Lukas Klostermann,https://www.fifaratings.com/lukas-klostermann,Right Back (RB),80,82,64,55,75,66,63,84,9
+330,Germany,Christian Günter,https://www.fifaratings.com/christian-gunter,Left Back (LB),80,80,63,71,73,72,67,75,11
+331,Germany,Thilo Kehrer,https://www.fifaratings.com/thilo-kehrer,Center Back (CB),76,79,56,58,71,69,63,77,11
+332,Germany,Niclas Füllkrug,https://www.fifaratings.com/niclas-fullkrug,Striker (ST),76,76,71,66,62,73,64,29,11
+333,Germany,Karim Adeyemi,https://www.fifaratings.com/karim-adeyemi,Striker (ST),75,87,68,69,85,77,61,21,10
+334,Germany,Armel Bella Kotchap,https://www.fifaratings.com/armel-bella-kotchap,Center Back (CB),74,83,43,41,69,58,51,73,10
+335,Germany,Youssoufa Moukoko,https://www.fifaratings.com/youssoufa-moukoko,Striker (ST),71,89,62,60,80,65,54,28,12
+336,Ghana,Thomas Partey,https://www.fifaratings.com/thomas-partey,Center Defensive Midfielder (CDM),84,84,70,78,66,83,76,81,10
+337,Ghana,Iñaki Williams Arthuer,https://www.fifaratings.com/inaki-williams-arthuer,Striker (ST),81,81,75,71,82,84,67,35,13
+338,Ghana,Joseph Aidoo,https://www.fifaratings.com/joseph-aidoo,Center Back (CB),78,81,45,39,70,66,52,75,9
+339,Ghana,Mohammed Kudus,https://www.fifaratings.com/mohammed-kudus,Center Attacking Midfielder (CAM),77,85,65,69,85,74,69,57,8
+340,Ghana,Mohammed Salisu,https://www.fifaratings.com/mohammed-salisu,Center Back (CB),77,82,48,50,61,63,54,78,8
+341,Ghana,Alexander Djiku,https://www.fifaratings.com/alexander-djiku,Center Back (CB),77,79,56,61,68,69,65,76,10
+342,Ghana,Daniel Amartey,https://www.fifaratings.com/daniel-amartey,Center Back (CB),76,76,66,57,65,70,63,76,12
+343,Ghana,Kamaldeen Sulemana,https://www.fifaratings.com/kamaldeen-sulemana,Right Midfielder (RM),75,85,62,67,85,68,58,27,10
+344,Ghana,Tariq Lamptey,https://www.fifaratings.com/tariq-lamptey,Right Wing Back (RWB),75,83,57,61,85,48,62,72,12
+345,Ghana,Daniel-Kofi Kyereh,https://www.fifaratings.com/daniel-kofi-kyereh,Center Attacking Midfielder (CAM),75,78,67,68,83,72,55,19,8
+346,Ghana,André Ayew,https://www.fifaratings.com/andre-ayew,Center Forward (CF),75,75,74,71,74,78,71,56,10
+347,Ghana,Jordan Ayew,https://www.fifaratings.com/jordan-ayew,Right Wing (RW),75,75,72,70,75,73,69,52,9
+348,Ghana,Kamal Sowah,https://www.fifaratings.com/kamal-sowah,Left Midfielder (LM),73,80,64,67,78,71,60,43,10
+349,Ghana,Salis Abdul Samed,https://www.fifaratings.com/salis-abdul-samed,Center Defensive Midfielder (CDM),72,76,51,55,56,56,62,69,10
+350,Ghana,Denis Odoi,https://www.fifaratings.com/denis-odoi,Right Back (RB),72,72,59,66,73,68,67,68,11
+351,Ghana,Lawrence Ati Zigi,https://www.fifaratings.com/lawrence-ati-zigi,Goalkeeper (GK),71,76,17,21,48,46,30,16,69
+352,Ghana,Elisha Owusu,https://www.fifaratings.com/elisha-owusu,Center Defensive Midfielder (CDM),71,75,54,62,67,66,63,70,10
+353,Ghana,Antoine Semenyo,https://www.fifaratings.com/antoine-semenyo,Striker (ST),70,79,63,54,76,72,54,17,11
+354,Ghana,Gideon Mensah,https://www.fifaratings.com/gideon-mensah,Left Wing Back (LWB),70,76,61,63,74,66,62,66,10
+355,Ghana,Osman Bukari,https://www.fifaratings.com/osman-bukari,Center Attacking Midfielder (CAM),70,74,58,61,80,67,58,38,9
+356,Ghana,Baba Rahman,https://www.fifaratings.com/baba-rahman,Left Wing Back (LWB),70,70,58,64,71,67,61,67,10
+357,Ghana,Abdul Fatawu Issahaku,https://www.fifaratings.com/abdul-fatawu-issahaku,Center Attacking Midfielder (CAM),69,86,59,69,80,61,55,34,8
+358,Ghana,Alidu Seidu,https://www.fifaratings.com/alidu-seidu,Right Back (RB),69,75,52,51,65,46,55,72,10
+359,Ghana,Ibrahim Danlad,https://www.fifaratings.com/ibrahim-danlad,Goalkeeper (GK),68,79,14,15,44,38,23,12,67
+360,Ghana,Abdul Manaf Nurudeen,https://www.fifaratings.com/abdul-manaf-nurudeen,Goalkeeper (GK),68,76,12,14,34,34,19,11,66
+361,Ghana,Daniel Afriyie Bernieh,https://www.fifaratings.com/daniel-afriyie-bernieh,Right Midfielder (RM),65,73,49,53,76,60,51,33,11
+362,Iran,Mehdi Taremi,https://www.fifaratings.com/mehdi-taremi,Striker (ST),81,81,76,71,75,77,65,35,10
+363,Iran,Sardar Azmoun,https://www.fifaratings.com/sardar-azmoun,Striker (ST),79,80,77,68,78,76,65,35,11
+364,Iran,Hossein Kanani,https://www.fifaratings.com/hossein-kanani,Center Back (CB),75,77,47,46,64,62,56,75,9
+365,Iran,Alireza Beiranvand,https://www.fifaratings.com/alireza-beiranvand,Goalkeeper (GK),74,75,13,15,44,44,25,17,73
+366,Iran,Ahmad Noorollahi,https://www.fifaratings.com/ahmad-noorollahi,Center Midfielder (CM),74,74,66,70,65,72,69,69,10
+367,Iran,Ali Gholizadeh,https://www.fifaratings.com/ali-gholizadeh,Right Midfielder (RM),73,74,59,70,76,73,62,50,11
+368,Iran,Karim Ansarifard,https://www.fifaratings.com/karim-ansarifard,Striker (ST),73,73,73,66,73,76,71,47,12
+369,Iran,Saeid Ezatolahi,https://www.fifaratings.com/saeid-ezatolahi,Center Defensive Midfielder (CDM),72,75,63,66,68,69,67,69,12
+370,Iran,Sadegh Moharrami,https://www.fifaratings.com/sadegh-moharrami,Right Back (RB),72,74,46,52,77,53,58,71,10
+371,Iran,Amir Abedzadeh,https://www.fifaratings.com/amir-abedzadeh,Goalkeeper (GK),72,73,14,20,43,39,24,14,70
+372,Iran,Shoja Khalilzadeh,https://www.fifaratings.com/shoja-khalilzadeh,Center Back (CB),72,72,45,45,64,56,52,72,12
+373,Iran,Vahid Amiri,https://www.fifaratings.com/vahid-amiri,Left Midfielder (LM),72,72,62,65,76,67,56,31,11
+374,Iran,Alireza Jahanbakhsh,https://www.fifaratings.com/alireza-jahanbakhsh,Center Forward (CF),72,72,68,66,75,77,64,41,9
+375,Iran,Milad Mohammadi,https://www.fifaratings.com/milad-mohammadi,Left Back (LB),72,72,62,67,78,65,66,66,11
+376,Iran,Ramin Rezaeian,https://www.fifaratings.com/ramin-rezaeian,Right Back (RB),70,70,64,71,66,71,68,66,9
+377,Iran,Ehsan Haji Safi,https://www.fifaratings.com/ehsan-haji-safi,Left Back (LB),70,70,64,69,73,72,66,65,11
+378,Iran,Majid Hosseini,https://www.fifaratings.com/majid-hosseini,Center Back (CB),69,72,41,45,63,59,47,70,11
+379,Iran,Morteza Pouraliganji,https://www.fifaratings.com/morteza-pouraliganji,Center Back (CB),69,69,62,63,66,66,62,69,13
+380,Iran,Saman Ghoddos,https://www.fifaratings.com/saman-ghoddos,Center Attacking Midfielder (CAM),69,68,68,67,65,69,64,50,10
+381,Iran,Ali Karimi,https://www.fifaratings.com/ali-karimi,Center Defensive Midfielder (CDM),69,65,61,62,59,65,61,59,9
+382,Iran,Abolfazl Jalali,https://www.fifaratings.com/abolfazl-jalali,Left Back (LB),68,72,50,56,72,57,56,67,11
+383,Iran,Seyed Payam Niazmand,https://www.fifaratings.com/seyed-payam-niazmand,Goalkeeper (GK),68,71,14,17,38,36,26,11,67
+384,Iran,Seyed Hossein Hosseini,https://www.fifaratings.com/seyed-hossein-hosseini,Goalkeeper (GK),67,68,12,15,35,39,22,13,69
+385,Iran,Mehdi Torabi,https://www.fifaratings.com/mehdi-torabi,Left Midfielder (LM),67,67,56,52,74,61,51,31,10
+386,Iran,Roozbeh Cheshmi,https://www.fifaratings.com/roozbeh-cheshmi,Center Back (CB),66,67,49,50,58,57,50,66,9
+387,Japan,Daichi Kamada,https://www.fifaratings.com/daichi-kamada,Center Attacking Midfielder (CAM),81,83,69,78,78,65,68,45,9
+388,Japan,Takumi Minamino,https://www.fifaratings.com/takumi-minamino,Center Attacking Midfielder (CAM),80,76,68,73,81,70,68,32,12
+389,Japan,Takehiro Tomiyasu,https://www.fifaratings.com/takehiro-tomiyasu,Center Back (CB),79,84,55,60,73,60,64,81,9
+390,Japan,Wataru Endo,https://www.fifaratings.com/wataru-endo,Center Midfielder (CM),78,78,60,65,73,77,73,76,9
+391,Japan,Junya Ito,https://www.fifaratings.com/junya-ito,Right Wing (RW),78,78,67,71,83,75,70,57,10
+392,Japan,Ritsu Doan,https://www.fifaratings.com/ritsu-doan,Center Attacking Midfielder (CAM),77,82,64,74,83,64,61,39,9
+393,Japan,Hidemasa Morita,https://www.fifaratings.com/hidemasa-morita,Center Midfielder (CM),77,78,58,70,70,69,69,72,9
+394,Japan,Shūichi Gonda,https://www.fifaratings.com/shuichi-gonda,Goalkeeper (GK),76,76,18,22,51,44,29,19,75
+395,Japan,Ko Itakura,https://www.fifaratings.com/ko-itakura,Center Back (CB),75,80,50,56,72,69,61,77,10
+396,Japan,Yuto Nagatomo,https://www.fifaratings.com/yuto-nagatomo,Left Back (LB),75,75,59,61,76,62,64,73,12
+397,Japan,Hiroki Sakai,https://www.fifaratings.com/hiroki-sakai,Right Back (RB),75,75,59,63,70,71,64,74,10
+398,Japan,Gaku Shibasaki,https://www.fifaratings.com/gaku-shibasaki,Center Defensive Midfielder (CDM),75,69,61,68,73,65,69,67,10
+399,Japan,Takefusa Kubo,https://www.fifaratings.com/takefusa-kubo,Center Attacking Midfielder (CAM),74,84,60,72,79,59,57,44,10
+400,Japan,Kaoru Mitoma,https://www.fifaratings.com/kaoru-mitoma,Center Attacking Midfielder (CAM),74,77,64,69,78,65,65,56,11
+401,Japan,Shogo Taniguchi,https://www.fifaratings.com/shogo-taniguchi,Center Back (CB),73,73,54,52,63,67,59,74,12
+402,Japan,Takuma Asano,https://www.fifaratings.com/takuma-asano,Right Wing (RW),73,73,65,58,85,68,58,24,10
+403,Japan,Maya Yoshida,https://www.fifaratings.com/maya-yoshida,Center Back (CB),73,73,53,50,59,62,59,75,11
+404,Japan,Hiroki Ito,https://www.fifaratings.com/hiroki-ito,Center Defensive Midfielder (CDM),72,77,58,59,73,68,62,74,11
+405,Japan,Daizen Maeda,https://www.fifaratings.com/daizen-maeda,Striker (ST),72,73,69,60,82,71,64,44,8
+406,Japan,Eiji Kawashima,https://www.fifaratings.com/eiji-kawashima,Goalkeeper (GK),72,72,18,20,52,46,24,12,71
+407,Japan,Miki Yamane,https://www.fifaratings.com/miki-yamane,Right Back (RB),72,72,65,57,69,72,60,69,10
+408,Japan,Ao Tanaka,https://www.fifaratings.com/ao-tanaka,Center Midfielder (CM),71,76,61,67,72,69,65,69,11
+409,Japan,Ayase Ueda,https://www.fifaratings.com/ayase-ueda,Striker (ST),70,75,61,60,71,72,54,22,11
+410,Japan,Yuki Soma,https://www.fifaratings.com/yuki-soma,Right Midfielder (RM),70,72,61,66,81,65,60,58,7
+411,Japan,Shuto Machino,https://www.fifaratings.com/shuto-machino,Striker (ST),69,74,64,57,66,72,58,24,9
+412,Japan,Daniel Schmidt,https://www.fifaratings.com/daniel-schmidt,Goalkeeper (GK),69,69,13,15,29,41,22,12,69
+413,Korea Republic,Heung Min Son,https://www.fifaratings.com/heung-min-son,Left Wing (LW),89,89,81,81,85,78,73,38,11
+414,Korea Republic,Min Jae Kim,https://www.fifaratings.com/min-jae-kim,Center Back (CB),79,83,46,50,73,66,60,79,11
+415,Korea Republic,Ui Jo Hwang,https://www.fifaratings.com/ui-jo-hwang,Striker (ST),78,78,71,70,78,80,66,37,9
+416,Korea Republic,Hee Chan Hwang,https://www.fifaratings.com/hee-chan-hwang,Left Wing (LW),77,78,71,66,80,75,64,25,11
+417,Korea Republic,Jae Sung Lee,https://www.fifaratings.com/jae-sung-lee,Center Attacking Midfielder (CAM),76,76,66,72,76,66,67,56,10
+418,Korea Republic,In Beom Hwang,https://www.fifaratings.com/in-beom-hwang,Center Midfielder (CM),75,78,64,75,76,71,67,55,9
+419,Korea Republic,Kang In Lee,https://www.fifaratings.com/kang-in-lee,Center Attacking Midfielder (CAM),73,81,72,77,75,55,61,26,11
+420,Korea Republic,Hyeon Woo Jo,https://www.fifaratings.com/hyeon-woo-jo,Goalkeeper (GK),73,73,18,17,51,36,32,21,71
+421,Korea Republic,Jun Ho Son,https://www.fifaratings.com/jun-ho-son,Center Defensive Midfielder (CDM),73,73,58,68,74,74,67,65,10
+422,Korea Republic,Woo Yeong Jeong,https://www.fifaratings.com/woo-yeong-jeong,Right Midfielder (RM),72,77,65,60,81,62,57,34,8
+423,Korea Republic,Kyung Won Kwon,https://www.fifaratings.com/kyung-won-kwon,Center Back (CB),72,72,52,55,63,64,59,74,13
+424,Korea Republic,Tae Hwan Kim,https://www.fifaratings.com/tae-hwan-kim,Right Back (RB),72,72,58,60,80,70,65,65,12
+425,Korea Republic,Young Gwon Kim,https://www.fifaratings.com/young-gwon-kim,Center Back (CB),72,72,54,60,63,64,63,71,12
+426,Korea Republic,Yu Min Cho,https://www.fifaratings.com/yu-min-cho,Center Back (CB),71,77,57,57,68,70,62,68,10
+427,Korea Republic,Jin Su Kim,https://www.fifaratings.com/jin-su-kim,Left Back (LB),71,71,49,65,79,60,61,67,10
+428,Korea Republic,Chul Hong,https://www.fifaratings.com/chul-hong,Left Wing Back (LWB),71,71,52,68,80,72,61,64,11
+429,Korea Republic,Chang Hoon Kwon,https://www.fifaratings.com/chang-hoon-kwon,Right Wing (RW),71,66,62,67,70,60,64,47,10
+430,Korea Republic,Gue Sung Cho,https://www.fifaratings.com/gue-sung-cho,Striker (ST),70,77,62,54,76,74,57,23,10
+431,Korea Republic,Bum Keun Song,https://www.fifaratings.com/bum-keun-song,Goalkeeper (GK),70,75,15,17,35,32,30,16,68
+432,Korea Republic,Min Kyu Song,https://www.fifaratings.com/min-kyu-song,Striker (ST),70,75,63,61,76,70,56,25,10
+433,Korea Republic,Seung Ho Paik,https://www.fifaratings.com/seung-ho-paik,Center Midfielder (CM),70,75,57,68,70,71,63,58,10
+434,Korea Republic,Jong Gyu Yoon,https://www.fifaratings.com/jong-gyu-yoon,Right Back (RB),70,72,46,52,73,53,54,62,10
+435,Korea Republic,Seung Gyu Kim,https://www.fifaratings.com/seung-gyu-kim,Goalkeeper (GK),70,70,19,18,47,44,33,15,69
+436,Korea Republic,Sang Ho Na,https://www.fifaratings.com/sang-ho-na,Left Wing (LW),70,70,64,60,82,72,58,31,11
+437,Korea Republic,Woo Young Jung,https://www.fifaratings.com/woo-young-jung,Center Defensive Midfielder (CDM),70,70,61,64,61,73,62,63,10
+438,Korea Republic,Moon Hwan Kim,https://www.fifaratings.com/moon-hwan-kim,Right Back (RB),70,69,53,58,80,60,59,61,8
+439,Mexico,Raúl Jiménez,https://www.fifaratings.com/raul-jimenez,Striker (ST),81,81,79,73,73,79,78,38,11
+440,Mexico,Hirving Lozano,https://www.fifaratings.com/hirving-lozano,Right Wing (RW),81,81,72,73,87,70,69,35,12
+441,Mexico,Edson Álvarez,https://www.fifaratings.com/edson-alvarez,Center Back (CB),80,84,68,59,69,72,71,81,8
+442,Mexico,Héctor Herrera,https://www.fifaratings.com/hector-herrera,Center Midfielder (CM),80,80,68,74,69,80,77,75,11
+443,Mexico,Guillermo Ochoa,https://www.fifaratings.com/guillermo-ochoa,Goalkeeper (GK),80,80,20,20,54,48,31,14,78
+444,Mexico,Alfredo Talavera,https://www.fifaratings.com/alfredo-talavera,Goalkeeper (GK),79,79,18,19,58,52,38,18,78
+445,Mexico,Henry Martín,https://www.fifaratings.com/henry-martin,Striker (ST),78,78,70,64,78,79,66,29,10
+446,Mexico,Alexis Vega,https://www.fifaratings.com/alexis-vega,Center Attacking Midfielder (CAM),77,83,70,76,80,76,64,27,9
+447,Mexico,César Montes,https://www.fifaratings.com/cesar-montes,Center Back (CB),77,82,54,61,65,66,66,77,8
+448,Mexico,Andrés Guardado,https://www.fifaratings.com/andres-guardado,Center Midfielder (CM),77,77,69,79,73,71,73,74,10
+449,Mexico,Jorge Sánchez,https://www.fifaratings.com/jorge-sanchez,Right Back (RB),76,82,56,62,85,72,66,72,10
+450,Mexico,Carlos Rodríguez,https://www.fifaratings.com/carlos-rodriguez,Center Attacking Midfielder (CAM),76,81,63,71,78,68,70,66,11
+451,Mexico,Luis Gerardo Chávez Magallón,https://www.fifaratings.com/luis-gerardo-chavez-magallon,Center Midfielder (CM),76,79,66,76,73,66,68,68,10
+452,Mexico,Érick Gutiérrez,https://www.fifaratings.com/erick-gutierrez,Center Midfielder (CM),76,77,67,73,72,70,71,69,11
+453,Mexico,Orbelín Pineda,https://www.fifaratings.com/orbelin-pineda,Left Wing (LW),76,77,66,70,81,70,73,64,11
+454,Mexico,Rodolfo Cota,https://www.fifaratings.com/rodolfo-cota,Goalkeeper (GK),76,76,15,20,60,50,33,17,74
+455,Mexico,Héctor Moreno,https://www.fifaratings.com/hector-moreno,Center Back (CB),76,76,63,53,60,63,64,77,12
+456,Mexico,Kevin Nahin Álvarez Campos,https://www.fifaratings.com/kevin-nahin-alvarez-campos,Right Back (RB),75,80,59,61,78,60,65,71,10
+457,Mexico,Uriel Antuna,https://www.fifaratings.com/uriel-antuna,Right Midfielder (RM),75,77,62,63,84,65,57,29,11
+458,Mexico,Rogelio Funes Mori,https://www.fifaratings.com/rogelio-funes-mori,Striker (ST),75,75,73,69,72,76,72,41,11
+459,Mexico,Jesús Gallardo,https://www.fifaratings.com/jesus-gallardo,Left Back (LB),75,75,66,67,77,74,67,70,9
+460,Mexico,Roberto Alvarado,https://www.fifaratings.com/roberto-alvarado,Center Attacking Midfielder (CAM),74,77,68,73,76,72,65,52,12
+461,Mexico,Néstor Alejandro Araujo Razo,https://www.fifaratings.com/nestor-alejandro-araujo-razo,Center Back (CB),74,74,51,56,58,64,56,74,9
+462,Mexico,Johan Vásquez,https://www.fifaratings.com/johan-vasquez,Center Back (CB),72,81,51,50,63,56,59,73,10
+463,Mexico,Luis Romo,https://www.fifaratings.com/luis-romo,Center Midfielder (CM),72,77,63,70,64,80,75,71,11
+464,Mexico,Gerardo Arteaga,https://www.fifaratings.com/gerardo-arteaga,Left Wing Back (LWB),72,77,59,63,76,63,62,68,7
+465,Morocco,Achraf Hakimi,https://www.fifaratings.com/achraf-hakimi,Right Back (RB),84,87,76,77,85,79,73,76,9
+466,Morocco,Yassine Bounou,https://www.fifaratings.com/yassine-bounou,Goalkeeper (GK),84,84,19,21,45,47,32,18,82
+467,Morocco,Hakim Ziyech,https://www.fifaratings.com/hakim-ziyech,Right Wing (RW),83,83,75,85,79,66,73,47,10
+468,Morocco,Noussair Mazraoui,https://www.fifaratings.com/noussair-mazraoui,Right Midfielder (RM),82,86,70,71,80,71,72,78,11
+469,Morocco,Youssef En-Nesyri,https://www.fifaratings.com/youssef-en-nesyri,Striker (ST),80,84,72,66,69,78,64,28,12
+470,Morocco,Nayef Aguerd,https://www.fifaratings.com/nayef-aguerd,Center Back (CB),80,83,57,60,68,73,65,80,10
+471,Morocco,Sofiane Boufal,https://www.fifaratings.com/sofiane-boufal,Center Attacking Midfielder (CAM),77,77,66,76,80,58,62,32,11
+472,Morocco,Romain Saïss,https://www.fifaratings.com/romain-saiss,Center Back (CB),77,77,61,66,64,72,69,77,10
+473,Morocco,Sofyan Amrabat,https://www.fifaratings.com/sofyan-amrabat,Center Midfielder (CM),76,79,68,70,71,75,71,72,12
+474,Morocco,Abderrazak Hamdallah,https://www.fifaratings.com/abderrazak-hamdallah,Striker (ST),76,76,73,72,70,73,62,25,11
+475,Morocco,Jawad El Yamiq,https://www.fifaratings.com/jawad-el-yamiq,Center Back (CB),75,75,50,52,74,74,60,73,11
+476,Morocco,Selim Amallah,https://www.fifaratings.com/selim-amallah,Center Attacking Midfielder (CAM),73,76,70,74,67,75,73,60,11
+477,Morocco,Badr Benoun,https://www.fifaratings.com/badr-benoun,Center Back (CB),73,74,52,57,60,58,61,72,12
+478,Morocco,Munir Mohand Mohamedi,https://www.fifaratings.com/munir-mohand-mohamedi,Goalkeeper (GK),73,73,21,25,49,49,30,18,72
+479,Morocco,Zakaria Aboukhlal,https://www.fifaratings.com/zakaria-aboukhlal,Left Midfielder (LM),72,79,60,64,80,70,58,43,9
+480,Morocco,Abdelhamid Sabiri,https://www.fifaratings.com/abdelhamid-sabiri,Center Attacking Midfielder (CAM),72,77,62,74,67,72,61,56,10
+481,Morocco,Anass Zaroury,https://www.fifaratings.com/anass-zaroury,Center Attacking Midfielder (CAM),71,77,61,67,81,65,56,22,10
+482,Morocco,Ilias Chair,https://www.fifaratings.com/ilias-chair,Center Attacking Midfielder (CAM),71,76,58,67,80,61,51,30,11
+483,Morocco,Ahmed Reda Tagnaouti,https://www.fifaratings.com/ahmed-reda-tagnaouti,Goalkeeper (GK),71,75,16,17,47,47,27,12,69
+484,Morocco,Abdessamad Ezzalzouli,https://www.fifaratings.com/abdessamad-ezzalzouli,Left Wing (LW),70,82,53,63,76,53,50,28,8
+485,Morocco,Azzedine Ounahi,https://www.fifaratings.com/azzedine-ounahi,Center Midfielder (CM),70,81,60,66,64,67,61,61,10
+486,Morocco,Yahya Attiat-Allah,https://www.fifaratings.com/yahya-attiat-allah,Left Back (LB),70,71,58,65,73,66,60,63,11
+487,Morocco,Yahya Jabrane,https://www.fifaratings.com/yahya-jabrane,Center Defensive Midfielder (CDM),70,70,57,62,65,66,66,68,12
+488,Morocco,Achraf Dari,https://www.fifaratings.com/achraf-dari,Center Back (CB),69,76,45,45,59,58,51,71,10
+489,Morocco,Walid Cheddira,https://www.fifaratings.com/walid-cheddira,Striker (ST),69,73,63,57,65,68,58,39,10
+490,Morocco,Bilal El Khannous,https://www.fifaratings.com/bilal-el-khannous,Center Attacking Midfielder (CAM),68,81,51,67,68,52,44,33,11
+491,Netherlands,Virgil van Dijk,https://www.fifaratings.com/virgil-van-dijk,Center Back (CB),89,89,63,72,72,80,73,90,12
+492,Netherlands,Frenkie de Jong,https://www.fifaratings.com/frenkie-de-jong,Center Midfielder (CM),87,92,77,83,83,75,77,76,10
+493,Netherlands,Matthijs de Ligt,https://www.fifaratings.com/matthijs-de-ligt,Center Back (CB),85,89,61,62,71,82,63,85,11
+494,Netherlands,Memphis Depay,https://www.fifaratings.com/memphis-depay,Center Forward (CF),85,85,78,84,82,80,71,25,10
+495,Netherlands,Stefan de Vrij,https://www.fifaratings.com/stefan-de-vrij,Center Back (CB),84,84,52,58,68,73,65,87,10
+496,Netherlands,Cody Gakpo,https://www.fifaratings.com/cody-gakpo,Right Midfielder (RM),83,87,75,78,81,80,68,36,9
+497,Netherlands,Denzel Dumfries,https://www.fifaratings.com/denzel-dumfries,Right Wing Back (RWB),82,84,68,64,75,79,69,77,11
+498,Netherlands,Steven Berghuis,https://www.fifaratings.com/steven-berghuis,Center Attacking Midfielder (CAM),82,82,75,82,80,73,73,37,10
+499,Netherlands,Steven Bergwijn,https://www.fifaratings.com/steven-bergwijn,Center Attacking Midfielder (CAM),81,84,73,75,84,76,65,40,13
+500,Netherlands,Jurriën Timber,https://www.fifaratings.com/jurrien-timber,Center Back (CB),80,88,59,60,78,70,69,81,10
+501,Netherlands,Jeremie Frimpong,https://www.fifaratings.com/jeremie-frimpong,Right Midfielder (RM),80,86,61,69,89,64,68,75,11
+502,Netherlands,Teun Koopmeiners,https://www.fifaratings.com/teun-koopmeiners,Center Midfielder (CM),80,84,73,77,72,78,77,76,12
+503,Netherlands,Marten de Roon,https://www.fifaratings.com/marten-de-roon,Center Back (CB),80,80,69,66,70,80,77,82,12
+504,Netherlands,Tyrell Malacia,https://www.fifaratings.com/tyrell-malacia,Left Wing Back (LWB),79,84,63,61,83,74,64,79,9
+505,Netherlands,Nathan Aké,https://www.fifaratings.com/nathan-ake,Center Back (CB),79,81,63,67,73,71,66,79,10
+506,Netherlands,Daley Blind,https://www.fifaratings.com/daley-blind,Center Defensive Midfielder (CDM),79,79,73,78,62,72,72,80,11
+507,Netherlands,Luuk de Jong,https://www.fifaratings.com/luuk-de-jong,Striker (ST),79,79,80,68,55,80,65,40,11
+508,Netherlands,Wout Weghorst,https://www.fifaratings.com/wout-weghorst,Striker (ST),79,79,73,57,61,81,70,48,12
+509,Netherlands,Justin Bijlow,https://www.fifaratings.com/justin-bijlow,Goalkeeper (GK),78,85,15,19,56,47,28,14,78
+510,Netherlands,Davy Klaassen,https://www.fifaratings.com/davy-klaassen,Center Attacking Midfielder (CAM),78,78,77,69,70,77,79,70,11
+511,Netherlands,Noa Lang,https://www.fifaratings.com/noa-lang,Center Attacking Midfielder (CAM),77,84,69,72,85,69,72,47,11
+512,Netherlands,Remko Pasveer,https://www.fifaratings.com/remko-pasveer,Goalkeeper (GK),77,77,20,28,46,50,35,17,80
+513,Netherlands,Xavi Simons,https://www.fifaratings.com/xavi-simons,Center Attacking Midfielder (CAM),75,87,60,71,79,61,70,54,9
+514,Netherlands,Kenneth Taylor,https://www.fifaratings.com/kenneth-taylor,Center Attacking Midfielder (CAM),75,86,67,76,73,66,68,61,9
+515,Netherlands,Vincent Janssen,https://www.fifaratings.com/vincent-janssen,Striker (ST),73,73,62,59,70,75,66,40,12
+516,Netherlands,Andries Noppert,https://www.fifaratings.com/andries-noppert,Goalkeeper (GK),72,75,20,23,53,49,26,13,68
+517,Poland,Robert Lewandowski,https://www.fifaratings.com/robert-lewandowski,Striker (ST),91,91,86,82,81,85,81,32,10
+518,Poland,Wojciech Szczęsny,https://www.fifaratings.com/wojciech-szczesny,Goalkeeper (GK),86,86,17,20,57,50,33,15,83
+519,Poland,Piotr Zieliński,https://www.fifaratings.com/piotr-zielinski,Center Attacking Midfielder (CAM),83,83,72,80,81,70,71,71,10
+520,Poland,Arkadiusz Milik,https://www.fifaratings.com/arkadiusz-milik,Striker (ST),80,80,75,75,64,72,67,34,12
+521,Poland,Matty Cash,https://www.fifaratings.com/matty-cash,Right Wing Back (RWB),79,83,63,67,78,75,69,77,13
+522,Poland,Grzegorz Krychowiak,https://www.fifaratings.com/grzegorz-krychowiak,Center Defensive Midfielder (CDM),78,78,73,69,53,76,75,74,10
+523,Poland,Szymon Żurkowski,https://www.fifaratings.com/szymon-zurkowski,Right Midfielder (RM),76,81,70,70,80,78,71,72,9
+524,Poland,Przemysław Frankowski,https://www.fifaratings.com/przemyslaw-frankowski,Right Midfielder (RM),76,77,70,69,82,73,67,66,11
+525,Poland,Jan Bednarek,https://www.fifaratings.com/jan-bednarek,Center Back (CB),76,77,46,43,57,56,55,75,11
+526,Poland,Łukasz Skorupski,https://www.fifaratings.com/lukasz-skorupski,Goalkeeper (GK),76,76,17,20,52,43,29,14,73
+527,Poland,Nicola Zalewski,https://www.fifaratings.com/nicola-zalewski,Right Midfielder (RM),75,87,62,68,77,58,62,56,9
+528,Poland,Sebastian Szymański,https://www.fifaratings.com/sebastian-szymanski,Left Midfielder (LM),75,83,65,74,81,58,60,37,11
+529,Poland,Krzysztof Piątek,https://www.fifaratings.com/krzysztof-piatek,Striker (ST),75,76,69,57,70,74,61,30,11
+530,Poland,Kamil Grabara,https://www.fifaratings.com/kamil-grabara,Goalkeeper (GK),74,79,21,25,47,44,32,20,73
+531,Poland,Karol Świderski,https://www.fifaratings.com/karol-swiderski,Striker (ST),74,79,69,65,68,70,63,24,11
+532,Poland,Kamil Grosicki,https://www.fifaratings.com/kamil-grosicki,Left Midfielder (LM),73,73,68,70,79,62,62,28,13
+533,Poland,Bartosz Bereszyński,https://www.fifaratings.com/bartosz-bereszynski,Right Back (RB),73,73,60,62,76,69,63,68,11
+534,Poland,Jakub Kamiński,https://www.fifaratings.com/jakub-kaminski,Right Midfielder (RM),72,83,62,62,78,63,55,43,10
+535,Poland,Jakub Kiwior,https://www.fifaratings.com/jakub-kiwior,Center Back (CB),72,81,48,51,60,62,62,71,9
+536,Poland,Robert Gumny,https://www.fifaratings.com/robert-gumny,Right Wing Back (RWB),72,76,53,55,72,61,57,69,10
+537,Poland,Damian Szymański,https://www.fifaratings.com/damian-szymanski,Center Midfielder (CM),72,73,63,64,69,72,69,70,14
+538,Poland,Krystian Bielik,https://www.fifaratings.com/krystian-bielik,Center Defensive Midfielder (CDM),71,75,54,60,59,64,65,69,10
+539,Poland,Kamil Glik,https://www.fifaratings.com/kamil-glik,Center Back (CB),71,71,42,46,44,61,52,69,9
+540,Poland,Artur Jędrzejczyk,https://www.fifaratings.com/artur-jedrzejczyk,Center Back (CB),69,69,57,52,59,68,60,67,11
+541,Poland,Mateusz Wieteska,https://www.fifaratings.com/mateusz-wieteska,Center Back (CB),68,73,47,39,61,58,55,66,13
+542,Poland,Michał Skóraś,https://www.fifaratings.com/michal-skoras,Right Midfielder (RM),67,78,57,58,77,65,57,36,9
+543,Portugal,Cristiano Ronaldo,https://www.fifaratings.com/c-ronaldo-dos-santos-aveiro,Striker (ST),90,90,86,82,80,86,75,27,12
+544,Portugal,Rúben Santos Gato Alves Dias,https://www.fifaratings.com/ruben-santos-gato-alves-dias,Center Back (CB),88,91,57,62,66,70,66,88,9
+545,Portugal,João Pedro Cavaco Cancelo,https://www.fifaratings.com/joao-pedro-cavaco-cancelo,Left Back (LB),88,88,76,82,82,77,77,82,12
+546,Portugal,Bernardo Mota Carvalho e Silva,https://www.fifaratings.com/bernardo-mota-carvalho-e-silva,Center Attacking Midfielder (CAM),88,88,76,82,86,71,77,61,11
+547,Portugal,Bruno Miguel Borges Fernandes,https://www.fifaratings.com/bruno-miguel-borges-fernandes,Center Attacking Midfielder (CAM),86,86,81,85,78,81,82,68,13
+548,Portugal,Rafael da Conceição Leão,https://www.fifaratings.com/rafael-da-conceicao-leao,Left Wing (LW),84,90,74,76,85,74,64,22,11
+549,Portugal,João Félix Sequeira,https://www.fifaratings.com/joao-felix-sequeira,Center Attacking Midfielder (CAM),83,89,78,81,84,75,72,36,13
+550,Portugal,Rúben Diogo da Silva Neves,https://www.fifaratings.com/ruben-diogo-da-silva-neves,Center Midfielder (CM),83,86,74,82,67,76,79,77,11
+551,Portugal,André Miguel Valente da Silva,https://www.fifaratings.com/andre-miguel-valente-da-silva,Striker (ST),82,84,78,69,77,81,77,37,11
+552,Portugal,Raphaël Guerreiro,https://www.fifaratings.com/raphael-guerreiro,Center Attacking Midfielder (CAM),82,82,75,85,83,67,72,77,9
+553,Portugal,Otávio Edmilson da Silva Monteiro,https://www.fifaratings.com/otavio-edmilson-da-silva-monteiro,Right Midfielder (RM),82,82,70,80,81,68,76,62,11
+554,Portugal,João Maria Palhinha Gonçalves,https://www.fifaratings.com/joao-maria-palhinha-goncalves,Center Back (CB),81,83,66,67,61,80,74,83,9
+555,Portugal,José Pedro Malheiro de Sá,https://www.fifaratings.com/jose-pedro-malheiro-de-sa,Goalkeeper (GK),81,82,22,22,57,50,29,16,79
+556,Portugal,Képler Laveran Lima Ferreira,https://www.fifaratings.com/kepler-laveran-lima-ferreira,Center Back (CB),81,81,54,57,69,75,67,81,9
+557,Portugal,Rui Pedro dos Santos Patrício,https://www.fifaratings.com/rui-pedro-dos-santos-patricio,Goalkeeper (GK),81,81,17,21,60,54,39,13,80
+558,Portugal,William Silva de Carvalho,https://www.fifaratings.com/william-silva-de-carvalho,Center Defensive Midfielder (CDM),81,81,67,74,44,75,75,74,9
+559,Portugal,Ricardo Jorge da Luz Horta,https://www.fifaratings.com/ricardo-jorge-da-luz-horta,Center Forward (CF),81,81,75,78,82,75,73,37,9
+560,Portugal,Nuno Alexandre Tavares Mendes,https://www.fifaratings.com/nuno-alexandre-tavares-mendes,Left Back (LB),80,88,64,70,84,72,68,75,10
+561,Portugal,Diogo Meireles Costa,https://www.fifaratings.com/diogo-meireles-costa,Goalkeeper (GK),80,86,13,18,42,41,28,14,77
+562,Portugal,Danilo Luís Hélio Pereira,https://www.fifaratings.com/danilo-luis-helio-pereira,Center Defensive Midfielder (CDM),80,80,66,66,57,78,72,76,12
+563,Portugal,João Mário N. Costa Eduardo,https://www.fifaratings.com/joao-mario-n-costa-eduardo,Center Midfielder (CM),80,80,70,77,75,70,73,64,9
+564,Portugal,Vítor Machado Ferreira,https://www.fifaratings.com/vitor-machado-ferreira,Center Attacking Midfielder (CAM),79,89,65,74,79,63,72,69,9
+565,Portugal,Matheus Luiz Nunes,https://www.fifaratings.com/matheus-luiz-nunes,Center Attacking Midfielder (CAM),79,86,64,75,79,72,75,75,12
+566,Portugal,José Diogo Dalot Teixeira,https://www.fifaratings.com/jose-diogo-dalot-teixeira,Right Back (RB),79,85,64,70,76,76,70,74,8
+567,Portugal,Gonçalo Matias Ramos,https://www.fifaratings.com/goncalo-matias-ramos,Striker (ST),76,85,70,63,77,78,62,33,11
+568,Portugal,António João Tavares Silva,https://www.fifaratings.com/antonio-joao-tavares-silva,Center Back (CB),72,87,42,46,63,55,50,64,9
+569,Qatar,Akram Afif,https://www.fifaratings.com/akram-afif,Right Midfielder (RM),76,78,68,72,79,65,60,31,9
+570,Qatar,Almoez Ali,https://www.fifaratings.com/almoez-ali,Striker (ST),72,75,65,57,64,74,57,17,12
+571,Qatar,Hassan Al Haydos,https://www.fifaratings.com/hassan-al-haydos,Right Wing (RW),72,72,60,69,78,56,61,28,12
+572,Qatar,Karim Boudiaf,https://www.fifaratings.com/karim-boudiaf,Center Midfielder (CM),72,72,64,68,59,73,62,66,11
+573,Qatar,Homam Ahmed,https://www.fifaratings.com/homam-ahmed,Left Wing Back (LWB),71,75,55,59,63,62,52,64,11
+574,Qatar,Bassam Al Rawi,https://www.fifaratings.com/bassam-al-rawi,Center Back (CB),71,75,51,67,70,70,57,68,10
+575,Qatar,Abdulaziz Hatem,https://www.fifaratings.com/abdulaziz-hatem,Center Midfielder (CM),71,71,66,66,66,73,62,60,11
+576,Qatar,Boualem Khoukhi,https://www.fifaratings.com/boualem-khoukhi,Center Back (CB),71,71,55,60,59,78,62,70,10
+577,Qatar,Pedro Miguel C. Deus Correia,https://www.fifaratings.com/pedro-miguel-c-deus-correia,Right Wing Back (RWB),71,69,50,54,65,61,58,66,10
+578,Qatar,Tarek Salman,https://www.fifaratings.com/tarek-salman,Center Defensive Midfielder (CDM),70,74,48,57,69,58,56,65,11
+579,Qatar,Abdelkarim Hassan,https://www.fifaratings.com/abdelkarim-hassan,Left Wing Back (LWB),70,70,63,63,65,79,64,66,9
+580,Qatar,Saad Al Sheeb,https://www.fifaratings.com/saad-al-sheeb,Goalkeeper (GK),70,68,13,15,46,41,23,13,67
+581,Qatar,Ali Asad,https://www.fifaratings.com/ali-asad,Left Wing (LW),69,69,63,68,72,54,57,33,9
+582,Qatar,Meshaal Barsham,https://www.fifaratings.com/meshaal-barsham,Goalkeeper (GK),68,71,10,13,57,39,22,11,63
+583,Qatar,Ismael Mohammad,https://www.fifaratings.com/ismael-mohammad,Right Wing Back (RWB),68,67,60,58,77,60,62,60,9
+584,Qatar,Mohammed Muntari,https://www.fifaratings.com/mohammed-muntari,Striker (ST),68,67,60,51,53,67,55,21,7
+585,Qatar,Assim Madibo,https://www.fifaratings.com/assim-madibo,Center Defensive Midfielder (CDM),67,70,45,50,76,59,57,67,12
+586,Qatar,Mohammed Waad,https://www.fifaratings.com/mohammed-waad,Center Back (CB),66,74,54,59,63,71,57,64,10
+587,Qatar,Ahmed Alaaeldin,https://www.fifaratings.com/ahmed-alaaeldin,Striker (ST),66,65,56,51,74,66,52,18,10
+588,Qatar,Musab Kheder,https://www.fifaratings.com/musab-kheder,Right Wing Back (RWB),66,65,49,52,75,49,54,62,11
+589,Qatar,Yousef Hassan,https://www.fifaratings.com/yousef-hassan,Goalkeeper (GK),65,68,13,13,42,34,17,11,63
+590,Qatar,Salem Al Hajri,https://www.fifaratings.com/salem-al-hajri,Center Back (CB),63,67,47,50,60,56,53,64,12
+591,Qatar,Khaled Muneer,https://www.fifaratings.com/khaled-muneer,Right Midfielder (RM),63,67,58,57,78,59,47,26,9
+592,Qatar,Jassem Gaber,https://www.fifaratings.com/jassem-gaber,Center Back (CB),61,73,44,41,59,59,51,62,9
+593,Qatar,Moustafa Tarek,https://www.fifaratings.com/moustafa-tarek,Left Wing Back (LWB),60,69,53,52,61,62,54,57,10
+594,Qatar,Naif Al Hadhrami,https://www.fifaratings.com/naif-al-hadhrami,Center Attacking Midfielder (CAM),60,69,53,59,68,56,52,31,9
+595,Saudi Arabia,Salem Al Dawsari,https://www.fifaratings.com/salem-al-dawsari,Left Wing (LW),76,76,68,71,82,71,70,51,11
+596,Saudi Arabia,Salman Al Faraj,https://www.fifaratings.com/salman-al-faraj,Center Attacking Midfielder (CAM),74,74,71,76,69,68,74,66,13
+597,Saudi Arabia,Yasser Al Shahrani,https://www.fifaratings.com/yasser-al-shahrani,Left Back (LB),73,73,58,65,79,68,63,68,12
+598,Saudi Arabia,Mohammed Kanno,https://www.fifaratings.com/mohammed-kanno,Center Defensive Midfielder (CDM),72,73,66,65,71,74,66,68,12
+599,Saudi Arabia,Sultan Al Ghannam,https://www.fifaratings.com/sultan-al-ghannam,Right Back (RB),72,72,64,63,77,65,65,66,11
+600,Saudi Arabia,Saud Abdulhamid,https://www.fifaratings.com/saud-abdulhamid,Right Back (RB),71,77,51,55,81,61,57,65,9
+601,Saudi Arabia,Abdulelah Al Amri,https://www.fifaratings.com/abdulelah-al-amri,Center Back (CB),71,76,42,42,62,64,55,67,11
+602,Saudi Arabia,Mohammed Al Owais,https://www.fifaratings.com/mohammed-al-owais,Goalkeeper (GK),71,69,19,18,51,45,30,15,66
+603,Saudi Arabia,Saleh Al Shehri,https://www.fifaratings.com/saleh-al-shehri,Striker (ST),71,68,61,51,62,70,57,26,13
+604,Saudi Arabia,Nawaf Al Abed,https://www.fifaratings.com/nawaf-al-abed,Center Attacking Midfielder (CAM),70,70,63,69,62,57,65,46,11
+605,Saudi Arabia,Mohammed Al Buraik,https://www.fifaratings.com/mohammed-al-buraik,Right Back (RB),70,70,59,70,71,67,65,65,9
+606,Saudi Arabia,Abdullah Madu,https://www.fifaratings.com/abdullah-madu,Center Back (CB),70,67,43,34,44,56,47,64,9
+607,Saudi Arabia,Sami Al Najai,https://www.fifaratings.com/sami-al-najai,Center Attacking Midfielder (CAM),69,72,63,61,70,65,61,57,8
+608,Saudi Arabia,Abdulelah Al Malki,https://www.fifaratings.com/abdulelah-al-malki,Center Defensive Midfielder (CDM),69,70,57,59,67,69,61,68,10
+609,Saudi Arabia,Hattan Bahebri,https://www.fifaratings.com/hattan-bahebri,Left Wing (LW),69,69,61,65,75,71,55,48,10
+610,Saudi Arabia,Nasser Al Dawsari,https://www.fifaratings.com/nasser-al-dawsari,Left Midfielder (LM),68,75,58,63,71,65,58,60,14
+611,Saudi Arabia,Abdullah Ateef,https://www.fifaratings.com/abdullah-ateef,Center Defensive Midfielder (CDM),68,68,53,66,47,49,66,65,9
+612,Saudi Arabia,Ali Al Bulayhi,https://www.fifaratings.com/ali-al-bulayhi,Center Back (CB),68,67,45,33,51,60,51,66,11
+613,Saudi Arabia,Firas Al Birekan,https://www.fifaratings.com/firas-al-birekan,Striker (ST),67,76,57,46,66,66,47,17,7
+614,Saudi Arabia,Ali Al Hassan,https://www.fifaratings.com/ali-al-hassan,Center Defensive Midfielder (CDM),67,71,53,56,65,62,60,61,11
+615,Saudi Arabia,Abdulrahman Al Obud,https://www.fifaratings.com/abdulrahman-al-obud,Left Midfielder (LM),67,67,55,55,77,63,50,41,11
+616,Saudi Arabia,Hassan Tombakti,https://www.fifaratings.com/hassan-tombakti,Center Back (CB),66,75,38,34,69,58,41,64,12
+617,Saudi Arabia,Mohammed Al Rubaie,https://www.fifaratings.com/mohammed-al-rubaie,Goalkeeper (GK),66,72,23,25,46,45,33,25,65
+618,Saudi Arabia,Riyadh Sharahili,https://www.fifaratings.com/riyadh-sharahili,Center Defensive Midfielder (CDM),66,65,52,54,51,66,56,60,11
+619,Saudi Arabia,Haitham Asiri,https://www.fifaratings.com/haitham-asiri,Right Midfielder (RM),61,73,52,50,71,57,47,22,10
+620,Saudi Arabia,Nawaf Al Aqidi,https://www.fifaratings.com/nawaf-al-aqidi,Goalkeeper (GK),61,67,15,16,39,37,19,10,57
+621,Senegal,Sadio Mané,https://www.fifaratings.com/sadio-mane,Left Midfielder (LM),89,89,81,77,91,81,74,41,11
+622,Senegal,Kalidou Koulibaly,https://www.fifaratings.com/kalidou-koulibaly,Center Back (CB),87,87,46,58,66,67,63,88,9
+623,Senegal,Édouard Mendy,https://www.fifaratings.com/edouard-mendy,Goalkeeper (GK),86,87,16,26,47,44,27,11,84
+624,Senegal,Idrissa Gueye,https://www.fifaratings.com/idrissa-gueye,Center Defensive Midfielder (CDM),82,82,61,71,75,78,74,84,9
+625,Senegal,Boulaye Dia,https://www.fifaratings.com/boulaye-dia,Striker (ST),79,83,70,63,75,76,62,20,12
+626,Senegal,Ismaïla Sarr,https://www.fifaratings.com/ismaila-sarr,Right Midfielder (RM),77,83,66,71,83,70,58,21,10
+627,Senegal,Abdou Diallo,https://www.fifaratings.com/abdou-diallo,Center Back (CB),77,79,60,63,72,62,67,78,8
+628,Senegal,Cheikhou Kouyaté,https://www.fifaratings.com/cheikhou-kouyate,Center Defensive Midfielder (CDM),77,77,62,59,62,76,71,77,11
+629,Senegal,Youssouf Sabaly,https://www.fifaratings.com/youssouf-sabaly,Right Back (RB),77,77,57,59,76,62,62,75,11
+630,Senegal,Pape Abou Cissé,https://www.fifaratings.com/pape-abou-cisse,Center Back (CB),76,79,45,42,61,65,54,75,13
+631,Senegal,Alfred Gomis,https://www.fifaratings.com/alfred-gomis,Goalkeeper (GK),76,78,17,21,54,49,32,14,75
+632,Senegal,Pape Gueye,https://www.fifaratings.com/pape-gueye,Center Defensive Midfielder (CDM),75,81,56,60,62,70,66,73,12
+633,Senegal,Krépin Diatta,https://www.fifaratings.com/krepin-diatta,Right Midfielder (RM),75,81,66,67,83,76,61,46,10
+634,Senegal,Bamba Dieng,https://www.fifaratings.com/bamba-dieng,Striker (ST),74,81,69,60,73,72,59,27,12
+635,Senegal,Nampalys Mendy,https://www.fifaratings.com/nampalys-mendy,Center Defensive Midfielder (CDM),74,74,59,69,71,63,67,74,12
+636,Senegal,Pathé Ciss,https://www.fifaratings.com/pathe-ciss,Center Defensive Midfielder (CDM),73,73,57,52,62,75,62,71,11
+637,Senegal,Nicolas Jackson,https://www.fifaratings.com/nicolas-jackson,Striker (ST),72,81,64,58,72,72,54,38,9
+638,Senegal,Ismail Jakobs,https://www.fifaratings.com/ismail-jakobs,Left Midfielder (LM),72,80,59,56,75,60,62,66,10
+639,Senegal,Fodé Ballo-Touré,https://www.fifaratings.com/fode-ballo-toure,Left Wing Back (LWB),72,76,58,65,75,63,64,68,11
+640,Senegal,Seny Dieng,https://www.fifaratings.com/seny-dieng,Goalkeeper (GK),72,75,18,23,44,43,24,10,71
+641,Senegal,Mamadou Loum,https://www.fifaratings.com/mamadou-loum,Center Back (CB),72,74,53,58,49,74,64,71,10
+642,Senegal,Pape Matar Sarr,https://www.fifaratings.com/pape-matar-sarr,Center Midfielder (CM),71,81,62,64,67,65,64,68,10
+643,Senegal,Iliman Ndiaye,https://www.fifaratings.com/iliman-ndiaye,Center Attacking Midfielder (CAM),71,81,56,67,75,60,51,29,9
+644,Senegal,Moustapha Name,https://www.fifaratings.com/moustapha-name,Center Midfielder (CM),71,74,61,67,70,71,68,65,9
+645,Senegal,Famara Diédhiou,https://www.fifaratings.com/famara-diedhiou,Striker (ST),69,69,60,54,61,70,57,25,11
+646,Senegal,Formose Mendy,https://www.fifaratings.com/formose-mendy,Center Back (CB),67,75,49,44,61,58,44,65,10
+647,Serbia,Sergej Milinković-Savić,https://www.fifaratings.com/sergej-milinkovic-savic,Center Midfielder (CM),86,87,80,83,69,86,78,77,9
+648,Serbia,Filip Kostić,https://www.fifaratings.com/filip-kostic,Left Midfielder (LM),85,85,76,81,81,80,75,70,13
+649,Serbia,Dušan Vlahović,https://www.fifaratings.com/dusan-vlahovic,Striker (ST),84,91,75,70,71,80,66,23,9
+650,Serbia,Dušan Tadić,https://www.fifaratings.com/dusan-tadic,Left Wing (LW),83,83,81,83,75,77,74,37,12
+651,Serbia,Nikola Milenković,https://www.fifaratings.com/nikola-milenkovic,Center Back (CB),80,85,58,54,58,70,58,81,10
+652,Serbia,Marko Dmitrović,https://www.fifaratings.com/marko-dmitrovic,Goalkeeper (GK),80,81,26,19,44,50,35,20,79
+653,Serbia,Luka Jović,https://www.fifaratings.com/luka-jovic,Striker (ST),79,83,76,70,76,77,63,22,10
+654,Serbia,Nemanja Maksimović,https://www.fifaratings.com/nemanja-maksimovic,Center Midfielder (CM),79,80,68,73,59,76,73,75,13
+655,Serbia,Nemanja Gudelj,https://www.fifaratings.com/nemanja-gudelj,Center Defensive Midfielder (CDM),79,79,71,76,57,80,75,74,11
+656,Serbia,Aleksandar Mitrović,https://www.fifaratings.com/aleksandar-mitrovic,Striker (ST),79,79,68,59,67,81,67,21,11
+657,Serbia,Predrag Rajković,https://www.fifaratings.com/predrag-rajkovic,Goalkeeper (GK),78,81,15,18,36,39,22,10,77
+658,Serbia,Saša Lukić,https://www.fifaratings.com/sasa-lukic,Center Midfielder (CM),77,80,69,76,66,71,72,71,10
+659,Serbia,Darko Lazović,https://www.fifaratings.com/darko-lazovic,Left Midfielder (LM),77,77,69,75,82,66,67,66,11
+660,Serbia,Ivan Ilić,https://www.fifaratings.com/ivan-ilic,Center Attacking Midfielder (CAM),76,86,68,75,73,73,70,69,11
+661,Serbia,Marko Grujić,https://www.fifaratings.com/marko-grujic,Center Midfielder (CM),76,79,70,70,64,77,73,72,11
+662,Serbia,Andrija Živković,https://www.fifaratings.com/andrija-zivkovic,Right Wing (RW),76,77,67,76,78,67,70,53,8
+663,Serbia,Srđan Babić,https://www.fifaratings.com/srdan-babic,Center Back (CB),75,80,46,49,51,64,52,74,11
+664,Serbia,Uroš Račić,https://www.fifaratings.com/uros-racic,Center Midfielder (CM),75,80,71,71,63,79,72,76,11
+665,Serbia,Filip Đuričić,https://www.fifaratings.com/filip-duricic,Center Attacking Midfielder (CAM),75,75,65,75,74,67,62,41,10
+666,Serbia,Vanja Milinković-Savić,https://www.fifaratings.com/vanja-milinkovic-savic,Goalkeeper (GK),74,78,19,35,45,54,36,15,74
+667,Serbia,Miloš Veljković,https://www.fifaratings.com/milos-veljkovic,Center Back (CB),74,75,49,47,59,61,55,73,12
+668,Serbia,Stefan Mitrović,https://www.fifaratings.com/stefan-mitrovic,Center Back (CB),74,74,47,48,40,66,56,73,11
+669,Serbia,Nemanja Radonjić,https://www.fifaratings.com/nemanja-radonjic,Left Wing (LW),73,74,66,67,79,64,56,28,10
+670,Serbia,Strahinja Pavlović,https://www.fifaratings.com/strahinja-pavlovic,Center Back (CB),72,82,51,53,56,60,54,69,11
+671,Serbia,Strajinja Eraković,https://www.fifaratings.com/strajinja-erakovic,Center Back (CB),69,77,48,51,64,60,51,70,8
+672,Serbia,Filip Mladenović,https://www.fifaratings.com/filip-mladenovic,Left Back (LB),69,69,63,66,77,68,61,61,12
+673,Spain,Aymeric Laporte,https://www.fifaratings.com/aymeric-laporte,Center Back (CB),86,87,62,70,64,69,69,86,9
+674,Spain,Pedro González López,https://www.fifaratings.com/pedro-gonzalez-lopez,Center Midfielder (CM),85,92,66,80,84,71,73,68,9
+675,Spain,Sergio Busquets Burgos,https://www.fifaratings.com/sergio-busquets-burgos,Center Defensive Midfielder (CDM),85,85,67,77,56,65,79,83,10
+676,Spain,Jordi Alba Ramos,https://www.fifaratings.com/jordi-alba-ramos,Left Back (LB),85,85,78,78,84,71,76,77,12
+677,Spain,Marcos Llorente Moreno,https://www.fifaratings.com/marcos-llorente-moreno,Center Attacking Midfielder (CAM),84,85,75,77,82,79,80,77,10
+678,Spain,Daniel Carvajal Ramos,https://www.fifaratings.com/daniel-carvajal-ramos,Right Back (RB),84,84,67,72,81,70,73,80,13
+679,Spain,Pau Francisco Torres,https://www.fifaratings.com/pau-francisco-torres,Center Back (CB),83,89,58,58,69,68,64,84,12
+680,Spain,Carlos Soler Barragán,https://www.fifaratings.com/carlos-soler-barragan,Center Midfielder (CM),83,88,72,82,78,73,77,71,10
+681,Spain,Unai Simón Mendibil,https://www.fifaratings.com/unai-simon-mendibil,Goalkeeper (GK),83,86,21,20,52,51,31,14,82
+682,Spain,Marco Asensio Willemsen,https://www.fifaratings.com/marco-asensio-willemsen,Right Wing (RW),83,84,75,82,80,73,66,40,10
+683,Spain,Jorge Resurrección,https://www.fifaratings.com/jorge-resurreccion,Center Midfielder (CM),83,83,71,81,76,76,79,78,11
+684,Spain,Ferran Torres García,https://www.fifaratings.com/ferran-torres-garcia,Left Wing (LW),82,88,78,76,82,74,69,29,12
+685,Spain,Daniel Olmo Carvajal,https://www.fifaratings.com/daniel-olmo-carvajal,Center Attacking Midfielder (CAM),82,87,71,80,78,68,70,48,13
+686,Spain,José Luís Gayà Peña,https://www.fifaratings.com/jose-luis-gaya-pena,Left Back (LB),82,83,67,73,82,66,72,81,11
+687,Spain,César Azpilicueta Tanco,https://www.fifaratings.com/cesar-azpilicueta-tanco,Center Back (CB),82,82,67,70,71,71,75,85,9
+688,Spain,Álvaro Borja Morata Martín,https://www.fifaratings.com/alvaro-borja-morata-martin,Striker (ST),81,81,79,69,75,78,68,24,4
+689,Spain,Pablo Sarabia García,https://www.fifaratings.com/pablo-sarabia-garcia,Right Wing (RW),81,81,74,81,77,63,70,54,12
+690,Spain,Anssumane Fati,https://www.fifaratings.com/anssumane-fati,Center Attacking Midfielder (CAM),79,90,72,76,85,66,63,28,8
+691,Spain,Yeremy Jesús Pino Santos,https://www.fifaratings.com/yeremy-jesus-pino-santos,Center Attacking Midfielder (CAM),79,88,69,74,78,55,58,40,9
+692,Spain,Pablo Martín Páez Gavira,https://www.fifaratings.com/pablo-martin-paez-gavira,Center Attacking Midfielder (CAM),79,87,62,73,81,65,73,66,10
+693,Spain,Eric García Martret,https://www.fifaratings.com/eric-garcia-martret,Center Defensive Midfielder (CDM),77,84,58,63,64,62,64,78,10
+694,Spain,Robert Lynch Sánchez,https://www.fifaratings.com/robert-lynch-sanchez,Goalkeeper (GK),77,83,20,26,45,49,31,15,76
+695,Spain,David Raya Martin,https://www.fifaratings.com/david-raya-martin,Goalkeeper (GK),77,79,24,30,57,43,34,18,76
+696,Spain,Rodrigo Moreno Machado,https://www.fifaratings.com/rodrigo-moreno-machado,Left Wing (LW),77,77,76,75,77,75,68,42,9
+697,Spain,Nicholas Williams Arthuer,https://www.fifaratings.com/nicholas-williams-arthuer,Right Midfielder (RM),75,87,66,66,82,66,55,25,12
+698,Spain,Hugo Guillamón Sammartín,https://www.fifaratings.com/hugo-guillamon-sammartin,Center Defensive Midfielder (CDM),74,82,59,57,63,63,62,75,13
+699,Switzerland,Yann Sommer,https://www.fifaratings.com/yann-sommer,Goalkeeper (GK),86,86,17,19,59,52,37,13,83
+700,Switzerland,Gregor Kobel,https://www.fifaratings.com/gregor-kobel,Goalkeeper (GK),84,88,17,23,47,49,31,15,81
+701,Switzerland,Denis Zakaria,https://www.fifaratings.com/denis-zakaria,Center Defensive Midfielder (CDM),81,86,63,68,75,74,73,81,11
+702,Switzerland,Manuel Akanji,https://www.fifaratings.com/manuel-akanji,Center Back (CB),81,82,59,68,74,72,63,83,9
+703,Switzerland,Djibril Sow,https://www.fifaratings.com/djibril-sow,Center Midfielder (CM),80,82,70,74,76,76,75,77,8
+704,Switzerland,Remo Freuler,https://www.fifaratings.com/remo-freuler,Center Midfielder (CM),80,80,64,74,70,72,75,77,11
+705,Switzerland,Jonas Omlin,https://www.fifaratings.com/jonas-omlin,Goalkeeper (GK),79,81,25,26,52,51,32,22,77
+706,Switzerland,Granit Xhaka,https://www.fifaratings.com/granit-xhaka,Center Defensive Midfielder (CDM),79,79,63,77,56,72,72,69,9
+707,Switzerland,Nico Elvedi,https://www.fifaratings.com/nico-elvedi,Center Back (CB),78,81,55,54,67,66,61,77,11
+708,Switzerland,Fabian Schär,https://www.fifaratings.com/fabian-schar,Center Back (CB),78,78,68,69,59,74,72,77,11
+709,Switzerland,Breel Embolo,https://www.fifaratings.com/breel-embolo,Striker (ST),77,80,72,69,76,79,69,47,9
+710,Switzerland,Silvan Widmer,https://www.fifaratings.com/silvan-widmer,Right Wing Back (RWB),77,77,65,69,75,78,69,71,9
+711,Switzerland,Noah Okafor,https://www.fifaratings.com/noah-okafor,Right Midfielder (RM),76,83,69,69,82,76,58,28,10
+712,Switzerland,Xherdan Shaqiri,https://www.fifaratings.com/xherdan-shaqiri,Center Attacking Midfielder (CAM),76,76,69,81,75,67,69,44,12
+713,Switzerland,Renato Steffen,https://www.fifaratings.com/renato-steffen,Left Midfielder (LM),76,76,71,74,85,74,66,55,11
+714,Switzerland,Christian Fassnacht,https://www.fifaratings.com/christian-fassnacht,Right Midfielder (RM),76,76,72,68,75,77,59,30,11
+715,Switzerland,Ruben Vargas,https://www.fifaratings.com/ruben-vargas,Left Midfielder (LM),75,81,67,66,86,73,59,52,8
+716,Switzerland,Michel Aebischer,https://www.fifaratings.com/michel-aebischer,Center Midfielder (CM),75,78,65,72,72,72,66,63,12
+717,Switzerland,Haris Seferović,https://www.fifaratings.com/haris-seferovic,Striker (ST),75,75,73,69,68,79,69,43,11
+718,Switzerland,Ricardo Rodríguez,https://www.fifaratings.com/ricardo-rodriguez,Center Defensive Midfielder (CDM),74,74,68,78,69,73,73,76,13
+719,Switzerland,Eray Cömert,https://www.fifaratings.com/eray-comert,Center Back (CB),73,79,50,56,70,77,58,70,6
+720,Switzerland,Philipp Köhn,https://www.fifaratings.com/philipp-kohn,Goalkeeper (GK),71,77,14,21,48,38,25,13,69
+721,Switzerland,Edimilson Fernandes,https://www.fifaratings.com/edimilson-fernandes,Center Defensive Midfielder (CDM),71,73,59,66,65,70,60,71,12
+722,Switzerland,Fabian Rieder,https://www.fifaratings.com/fabian-rieder,Center Attacking Midfielder (CAM),70,83,54,71,69,66,60,51,12
+723,Switzerland,Fabian Frei,https://www.fifaratings.com/fabian-frei,Center Defensive Midfielder (CDM),69,69,70,70,59,74,68,71,12
+724,Switzerland,Ardon Jashari,https://www.fifaratings.com/ardon-jashari,Center Attacking Midfielder (CAM),67,82,60,64,67,66,63,62,9
+725,Tunisia,Ellyes Skhiri,https://www.fifaratings.com/ellyes-skhiri,Center Defensive Midfielder (CDM),79,80,70,70,70,76,72,77,13
+726,Tunisia,Wahbi Khazri,https://www.fifaratings.com/wahbi-khazri,Center Attacking Midfielder (CAM),75,75,72,76,74,67,74,36,8
+727,Tunisia,Ferjani Sassi,https://www.fifaratings.com/ferjani-sassi,Center Midfielder (CM),75,75,67,72,68,72,74,68,10
+728,Tunisia,Naïm Sliti,https://www.fifaratings.com/naim-sliti,Left Midfielder (LM),75,75,68,72,77,70,64,31,12
+729,Tunisia,Aïssa Laïdouni,https://www.fifaratings.com/aissa-laidouni,Center Defensive Midfielder (CDM),73,78,53,62,66,70,71,65,12
+730,Tunisia,Ali Maâloul,https://www.fifaratings.com/ali-maaloul,Left Back (LB),72,72,68,72,75,70,67,66,12
+731,Tunisia,Seifeddine Jaziri,https://www.fifaratings.com/seifeddine-jaziri,Striker (ST),72,72,63,63,70,73,57,28,9
+732,Tunisia,Dylan Bronn,https://www.fifaratings.com/dylan-bronn,Center Back (CB),71,73,63,60,66,70,67,71,8
+733,Tunisia,Yassine Meriah,https://www.fifaratings.com/yassine-meriah,Center Back (CB),71,72,50,47,65,70,58,70,9
+734,Tunisia,Youssef Msakni,https://www.fifaratings.com/youssef-msakni,Left Wing (LW),71,71,63,69,70,62,58,22,11
+735,Tunisia,Mohamed Dräger,https://www.fifaratings.com/mohamed-drager,Right Back (RB),70,73,63,61,77,62,64,64,10
+736,Tunisia,Wajdi Kechrida,https://www.fifaratings.com/wajdi-kechrida,Right Back (RB),70,71,50,56,67,50,55,71,11
+737,Tunisia,Taha Khenissi,https://www.fifaratings.com/taha-khenissi,Center Forward (CF),70,70,66,67,72,67,55,22,10
+738,Tunisia,Ali Abdi,https://www.fifaratings.com/ali-abdi,Left Wing Back (LWB),70,70,62,63,76,71,62,61,12
+739,Tunisia,Mohamed Ben Romdhane,https://www.fifaratings.com/mohamed-ben-romdhane,Center Midfielder (CM),69,76,59,70,64,68,66,61,11
+740,Tunisia,Anis Slimane,https://www.fifaratings.com/anis-slimane,Center Midfielder (CM),69,73,54,63,67,70,61,58,10
+741,Tunisia,Montassar Talbi,https://www.fifaratings.com/montassar-talbi,Center Back (CB),69,72,41,40,61,56,49,69,11
+742,Tunisia,Bechir Ben Said,https://www.fifaratings.com/bechir-ben-said,Goalkeeper (GK),69,71,11,16,38,37,19,11,67
+743,Tunisia,Bilel Ifa,https://www.fifaratings.com/bilel-ifa,Center Back (CB),69,69,46,42,61,59,52,71,13
+744,Tunisia,Aymen Dahmen,https://www.fifaratings.com/aymen-dahmen,Goalkeeper (GK),68,73,14,20,31,36,22,10,67
+745,Tunisia,Mouez Hassen,https://www.fifaratings.com/mouez-hassen,Goalkeeper (GK),68,71,18,17,54,43,25,13,67
+746,Tunisia,Ghaylen Chaaleli,https://www.fifaratings.com/ghaylen-chaaleli,Center Attacking Midfielder (CAM),68,68,64,64,68,68,61,51,10
+747,Tunisia,Nader Ghandri,https://www.fifaratings.com/nader-ghandri,Center Back (CB),67,70,49,46,40,60,54,65,10
+748,Tunisia,Aymen Mathlouthi,https://www.fifaratings.com/aymen-mathlouthi,Goalkeeper (GK),67,67,17,15,31,42,29,15,66
+749,Tunisia,Issam Jebali,https://www.fifaratings.com/issam-jebali,Center Attacking Midfielder (CAM),67,66,60,62,67,69,61,32,8
+750,Tunisia,Hannibal Mejbri,https://www.fifaratings.com/hannibal-mejbri,Right Midfielder (RM),65,84,53,61,70,53,63,53,8
+751,United States,Christian Pulisic,https://www.fifaratings.com/christian-pulisic,Right Midfielder (RM),82,88,69,72,86,69,63,39,13
+752,United States,Weston McKennie,https://www.fifaratings.com/weston-mckennie,Center Midfielder (CM),79,84,76,76,77,81,77,77,10
+753,United States,Giovanni Reyna,https://www.fifaratings.com/giovanni-reyna,Center Attacking Midfielder (CAM),77,86,67,74,79,74,61,36,11
+754,United States,Sergiño Dest,https://www.fifaratings.com/sergino-dest,Right Midfielder (RM),77,85,63,69,83,64,66,71,12
+755,United States,Matt Turner,https://www.fifaratings.com/matt-turner,Goalkeeper (GK),77,80,16,19,48,44,33,11,75
+756,United States,Cameron Carter-Vickers,https://www.fifaratings.com/cameron-carter-vickers,Center Back (CB),76,83,45,49,70,60,55,73,11
+757,United States,Tyler Adams,https://www.fifaratings.com/tyler-adams,Center Defensive Midfielder (CDM),76,80,56,62,81,67,70,73,9
+758,United States,Walker Zimmerman,https://www.fifaratings.com/walker-zimmerman,Center Back (CB),76,77,57,50,58,70,63,73,11
+759,United States,Brenden Aaronson,https://www.fifaratings.com/brenden-aaronson,Center Attacking Midfielder (CAM),75,82,59,71,80,70,64,53,10
+760,United States,Cristian Roldan,https://www.fifaratings.com/cristian-roldan,Center Midfielder (CM),75,75,66,68,78,81,73,71,12
+761,United States,Yunus Musah,https://www.fifaratings.com/yunus-musah,Center Attacking Midfielder (CAM),74,84,60,66,75,71,62,62,10
+762,United States,Jesus Ferreira,https://www.fifaratings.com/jesus-ferreira,Center Forward (CF),74,84,69,65,81,72,63,44,11
+763,United States,Timothy Weah,https://www.fifaratings.com/timothy-weah,Center Attacking Midfielder (CAM),74,81,69,66,80,67,62,41,11
+764,United States,Antonee Robinson,https://www.fifaratings.com/antonee-robinson,Left Wing Back (LWB),74,77,58,61,78,62,64,69,12
+765,United States,Aaron Long,https://www.fifaratings.com/aaron-long,Center Back (CB),73,73,51,50,70,66,61,69,11
+766,United States,Sean Johnson,https://www.fifaratings.com/sean-johnson,Goalkeeper (GK),73,73,20,23,51,50,27,15,71
+767,United States,Joe Scally,https://www.fifaratings.com/joe-scally,Right Back (RB),72,82,53,57,74,58,58,71,10
+768,United States,Shaquell Moore,https://www.fifaratings.com/shaquell-moore,Right Wing Back (RWB),72,76,60,58,79,75,61,63,11
+769,United States,Kellyn Acosta,https://www.fifaratings.com/kellyn-acosta,Center Midfielder (CM),72,73,65,72,74,79,70,65,9
+770,United States,Luca de la Torre,https://www.fifaratings.com/luca-de-la-torre,Center Midfielder (CM),71,77,58,70,71,61,64,61,11
+771,United States,Ethan Horvath,https://www.fifaratings.com/ethan-horvath,Goalkeeper (GK),71,74,17,20,51,44,23,10,68
+772,United States,Jordan Morris,https://www.fifaratings.com/jordan-morris,Striker (ST),71,71,66,61,77,76,65,33,11
+773,United States,Tim Ream,https://www.fifaratings.com/tim-ream,Center Back (CB),70,70,59,64,60,59,62,71,12
+774,United States,DeAndre Yedlin,https://www.fifaratings.com/deandre-yedlin,Right Back (RB),70,70,56,54,84,72,59,65,10
+775,United States,Haji Wright,https://www.fifaratings.com/haji-wright,Striker (ST),69,75,59,55,65,73,51,19,10
+776,United States,Josh Sargent,https://www.fifaratings.com/josh-sargent,Striker (ST),69,74,66,62,71,78,65,41,8
+777,Uruguay,Federico Valverde,https://www.fifaratings.com/federico-valverde,Center Midfielder (CM),85,90,71,76,80,78,77,80,9
+778,Uruguay,Luis Suárez,https://www.fifaratings.com/luis-suarez,Striker (ST),84,84,82,79,75,79,77,41,31
+779,Uruguay,Giorgian De Arrascaeta,https://www.fifaratings.com/giorgian-de-arrascaeta,Center Attacking Midfielder (CAM),84,84,76,83,83,69,65,43,13
+780,Uruguay,Ronald Araujo,https://www.fifaratings.com/ronald-araujo,Center Back (CB),83,89,63,56,69,69,67,83,11
+781,Uruguay,José María Giménez,https://www.fifaratings.com/jose-maria-gimenez,Center Back (CB),83,85,54,53,65,73,59,86,10
+782,Uruguay,Darwin Núñez,https://www.fifaratings.com/darwin-nunez,Striker (ST),82,89,75,70,82,83,73,36,12
+783,Uruguay,Sebastián Coates,https://www.fifaratings.com/sebastian-coates,Center Back (CB),82,82,55,52,56,63,71,85,15
+784,Uruguay,Lucas Torreira,https://www.fifaratings.com/lucas-torreira,Center Defensive Midfielder (CDM),81,83,69,75,80,73,73,79,8
+785,Uruguay,Edinson Cavani,https://www.fifaratings.com/edinson-cavani,Striker (ST),81,81,79,70,65,76,78,44,11
+786,Uruguay,Rodrigo Bentancur,https://www.fifaratings.com/rodrigo-bentancur,Center Defensive Midfielder (CDM),80,84,69,77,71,73,74,79,11
+787,Uruguay,Fernando Muslera,https://www.fifaratings.com/fernando-muslera,Goalkeeper (GK),80,80,18,25,61,51,36,15,77
+788,Uruguay,Manuel Ugarte,https://www.fifaratings.com/manuel-ugarte,Center Midfielder (CM),78,85,57,68,70,67,73,76,11
+789,Uruguay,Maximiliano Gómez,https://www.fifaratings.com/maximiliano-gomez,Striker (ST),78,80,75,69,65,81,67,26,9
+790,Uruguay,Sergio Rochet,https://www.fifaratings.com/sergio-rochet,Goalkeeper (GK),78,80,18,20,49,48,26,14,76
+791,Uruguay,Nicolás De la Cruz,https://www.fifaratings.com/nicolas-de-la-cruz,Center Attacking Midfielder (CAM),78,79,74,78,85,75,78,70,8
+792,Uruguay,Mathías Olivera,https://www.fifaratings.com/mathias-olivera,Left Back (LB),77,83,60,63,66,66,65,74,14
+793,Uruguay,Matias Vecino,https://www.fifaratings.com/matias-vecino,Center Midfielder (CM),77,77,71,71,66,75,73,73,4
+794,Uruguay,Diego Godín,https://www.fifaratings.com/diego-godin,Center Back (CB),76,76,59,59,58,69,64,76,10
+795,Uruguay,Matías Viña,https://www.fifaratings.com/matias-vina,Left Wing Back (LWB),75,78,64,69,78,69,61,70,10
+796,Uruguay,Sebastián Sosa,https://www.fifaratings.com/sebastian-sosa,Goalkeeper (GK),74,74,17,22,58,50,32,17,73
+797,Uruguay,Facundo Torres,https://www.fifaratings.com/facundo-torres,Center Attacking Midfielder (CAM),73,81,68,69,76,66,54,34,8
+798,Uruguay,Agustín Canobbio Graviz,https://www.fifaratings.com/agustin-canobbio-graviz,Right Midfielder (RM),73,78,63,65,78,67,61,47,10
+799,Uruguay,Martín Cáceres,https://www.fifaratings.com/martin-caceres,Center Back (CB),73,73,61,61,70,72,65,73,3
+800,Uruguay,Guillermo Varela,https://www.fifaratings.com/guillermo-varela,Right Back (RB),72,72,54,61,76,63,57,70,13
+801,Uruguay,Facundo Pellistri,https://www.fifaratings.com/facundo-pellistri,Right Midfielder (RM),70,81,60,65,79,67,55,29,9
+802,Uruguay,José Luis Rodriguez,https://www.fifaratings.com/jose-luis-rodriguez,Right Back (RB),70,75,59,62,74,61,54,67,10
+803,Wales,Gareth Bale,https://www.fifaratings.com/gareth-bale,Striker (ST),81,81,83,83,76,79,72,51,10
+804,Wales,Ben Davies,https://www.fifaratings.com/ben-davies,Center Back (CB),79,79,66,68,70,68,70,81,9
+805,Wales,Daniel James,https://www.fifaratings.com/daniel-james,Right Midfielder (RM),76,81,65,67,86,71,66,44,10
+806,Wales,Harry Wilson,https://www.fifaratings.com/harry-wilson,Center Attacking Midfielder (CAM),76,79,70,78,79,68,65,44,10
+807,Wales,Aaron Ramsey,https://www.fifaratings.com/aaron-ramsey,Center Midfielder (CM),76,76,70,78,64,67,73,67,8
+808,Wales,Brennan Johnson,https://www.fifaratings.com/brennan-johnson,Right Midfielder (RM),75,85,68,64,79,61,58,45,10
+809,Wales,Joe Rodon,https://www.fifaratings.com/joe-rodon,Center Back (CB),74,80,46,46,58,55,50,72,10
+810,Wales,Connor Roberts,https://www.fifaratings.com/connor-roberts,Right Back (RB),74,75,60,60,73,69,61,70,10
+811,Wales,Wayne Hennessey,https://www.fifaratings.com/wayne-hennessey,Goalkeeper (GK),74,74,15,19,49,41,31,15,74
+812,Wales,Danny Ward,https://www.fifaratings.com/danny-ward,Goalkeeper (GK),74,74,16,23,50,43,29,15,73
+813,Wales,Joe Morrell,https://www.fifaratings.com/joe-morrell,Center Midfielder (CM),74,69,51,64,78,59,61,53,9
+814,Wales,Ethan Ampadu,https://www.fifaratings.com/ethan-ampadu,Center Defensive Midfielder (CDM),73,80,55,58,67,64,63,73,11
+815,Wales,Kieffer Moore,https://www.fifaratings.com/kieffer-moore,Striker (ST),73,73,68,60,62,73,63,41,10
+816,Wales,Neco Williams,https://www.fifaratings.com/neco-williams,Right Wing Back (RWB),72,82,54,60,74,56,58,68,11
+817,Wales,Chris Mepham,https://www.fifaratings.com/chris-mepham,Center Back (CB),71,74,48,52,60,59,58,72,12
+818,Wales,Joe Allen,https://www.fifaratings.com/joe-allen,Center Defensive Midfielder (CDM),71,71,61,67,74,66,68,70,10
+819,Wales,Tom Lockyer,https://www.fifaratings.com/tom-lockyer,Center Back (CB),71,71,47,51,66,61,55,68,12
+820,Wales,Ben Cabango,https://www.fifaratings.com/ben-cabango,Center Back (CB),70,80,42,37,60,56,49,70,9
+821,Wales,Sorba Thomas,https://www.fifaratings.com/sorba-thomas,Right Midfielder (RM),70,75,62,72,78,67,63,55,9
+822,Wales,Adam Davies,https://www.fifaratings.com/adam-davies,Goalkeeper (GK),70,70,15,15,45,37,27,16,69
+823,Wales,Rubin Colwill,https://www.fifaratings.com/rubin-colwill,Center Attacking Midfielder (CAM),67,79,61,64,65,67,55,42,10
+824,Wales,Mark Harris,https://www.fifaratings.com/mark-harris,Right Midfielder (RM),67,72,61,57,77,67,55,43,10
+825,Wales,Dylan Levitt,https://www.fifaratings.com/dylan-levitt,Center Attacking Midfielder (CAM),66,80,58,64,68,62,64,59,9
+826,Wales,Matt Smith,https://www.fifaratings.com/matt-smith,Center Attacking Midfielder (CAM),66,77,55,64,73,66,61,61,11
+827,Wales,Chris Gunter,https://www.fifaratings.com/chris-gunter,Right Wing Back (RWB),66,62,53,50,64,58,58,61,12
+828,Wales,Jonny Williams,https://www.fifaratings.com/jonny-williams,Center Attacking Midfielder (CAM),64,62,56,56,74,55,60,53,11
